@@ -1,5 +1,5 @@
 gcc misordenamientos.c -c misordenamientos
-gcc main.c misordenamientos.h -o main
+gcc main.c misordenamientos.h -o Main
 Main.exe 10 <números.txt >>salida.csv
 Main.exe 100 <números.txt >>salida.csv
 Main.exe 500 <números.txt >>salida.csv
