@@ -31,7 +31,7 @@ int main(int argc, char* argv[]) {
         scanf("%d", &A[i]);
 	
 	t_inicio = clock();
-    QuickSort(A, 0, n);
+    QuickSort(A, 0, n-1);
 	t_final = clock();
 	
 	
