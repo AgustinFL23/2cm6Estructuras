@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <math.h>
 #define TRUE 1
 #define FALSE 0
 
@@ -50,7 +51,7 @@ int main(int argc, char* argv[]) {
 void MergeSort(int *A, int p, int r){
 	int q, s;
 	if (p < r){
-		q = (p+r)/2;
+		q = (int) floor((p+r)/2);
 		MergeSort(A, p, q);
 		MergeSort(A, q+1, r);
 		Merge(A, p, q, r);
