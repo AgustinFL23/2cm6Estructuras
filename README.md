@@ -3,13 +3,13 @@
 Equipo conformado por:
 - [Luis Alfonso Guerra Torres](https://github.com/TexorEuric)
 - [Agustín Flores Lopez](https://github.com/AgustinFL23)
-- 
+- [Alejandro Gael Garcia Arzurbide](https://github.com/AgustinFL23)
+- [Michel Hernandez Santiago](https://github.com/AgustinFL23)
 
 ## Practicas 
 - [X] &#128272; Practica 1 Algoritmos de ordenamiento
 - [ ] 🔓 Practica 2 Backtracking en Imagenes
 ---
-## Pendientes
 
 
 ### Guia para hacer cambios
@@ -21,3 +21,5 @@ Equipo conformado por:
 
 ---
 
+## Pendientes
+- - Modificar sus enlaces con el de su perfil de Github
