@@ -15,7 +15,7 @@ Equipo conformado por:
 ### Guia para hacer cambios
 
 - Hacer una nueva branch desde la branch de la practica, no desde el main
-- Realizar los cambios, a ser posible extender lo que se hizo en la parte de commit changes
+- Realizar los cambios, a ser posible extender lo que se hizo en la parte de estemd description
 - Avisar del cambio para revision y cuando este aprovado hacer la union con la branch original
 - Tratar de que la branch de la practica no tenga más de una branch de cambios activa
 
