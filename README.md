@@ -7,7 +7,7 @@ Equipo conformado por:
 
 ## Practicas 
 - [X] &#128272; Practica 1 Algoritmos de ordenamiento
-- [X] 🔓 Practica 2 Backtracking en Imagenes
+- [ ] 🔓 Practica 2 Backtracking en Imagenes
 ---
 ## Pendientes
 
