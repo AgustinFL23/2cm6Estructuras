@@ -1,0 +1,12 @@
+funcio(BMP* img,int*RGBO,int x,int y,int* RBGC){
+	
+	if(img->pixelR[x][y]==RGBO[0]&iimg->pixelG[x][y]==RGBO[1]&img->pixelB[x][y]==RGBO[2]){
+		img->pixelR[x][y]=RGBC[0];//RGBO[0] rojo
+		img->pixelG[x][y]=RGBC[1];
+		img->pixelB[x][y]=RGBC[2];
+		funcio(img,RGBO, x, y+1, RBGC);
+		funcio(img,RGBO, x+1, y, RBGC);
+		funcio(img,RGBO, x, y-1, RBGC);
+		funcio(img,RGBO, x-1, y, RBGC);
+	}
+}
