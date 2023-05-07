@@ -34,7 +34,7 @@ typedef struct BMP
 void abrir_imagen(BMP *imagen, char ruta[]);		//Función para abrir la imagen BMP
 void crear_imagen(BMP *imagen, char ruta[]);	//Función para crear una imagen BMP
 int seleccion (BMP* img,int x,int y,int* RGBO) ; //nos da el color del pixel 
-int cubeta (BMP* img,int*RGBO,int x,int y,int* RGBC) ; 
+void cubeta (BMP* img,int*RGBO,int x,int y,int* RGBC) ; 
 /*la funcion recibe un apuntador a una estructura BMP que es la imagen que vamos a manipular
 un arreglo de enteros que incluye en los valores Rojo, Azul y verde  del color original en orden
 Las coordenadas x,y en las que  vamos a intentar cambiar el color

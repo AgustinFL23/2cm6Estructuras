@@ -171,14 +171,13 @@ void abrir_imagen(BMP *imagen, char *ruta)
 	//*********************************************************************************************************
 	//Reservar memoria para el arreglo que tendra los planos RGB de la imagen (Arreglo de tamaño "img.ancho X img.alto")
 	//*********************************************************************************************************
-	imagen->pixelR=malloc(imagen->alto* sizeof(char *)); 
-	imagen->pixelG=malloc(imagen->alto* sizeof(char *)); 
-	imagen->pixelB=malloc(imagen->alto* sizeof(char *)); 
-	for( i=0; i<imagen->alto; i++)
-	{
-		imagen->pixelR[i]=malloc (imagen->ancho* sizeof(char)); 
-		imagen->pixelG[i]=malloc (imagen->ancho* sizeof(char)); 
-		imagen->pixelB[i]=malloc (imagen->ancho* sizeof(char)); 
+	imagen->pixelR=malloc(imagen->ancho* sizeof(char *)); 
+	imagen->pixelG=malloc(imagen->ancho* sizeof(char *)); 
+	imagen->pixelB=malloc(imagen->ancho* sizeof(char *));
+	for( i=0; i<imagen->ancho; i++){
+		imagen->pixelR[i]=malloc (imagen->alto* sizeof(char)); 
+		imagen->pixelG[i]=malloc (imagen->alto* sizeof(char)); 
+		imagen->pixelB[i]=malloc (imagen->alto* sizeof(char)); 
 	}
 		
 	//*********************************************************************************************************
@@ -190,9 +189,9 @@ void abrir_imagen(BMP *imagen, char *ruta)
 	//Algoritmo sobre la imágen a las matrices correspondientes
 	//*********************************************************************************************************
 	//Iterar a través de las filas de píxeles, teniendo en cuenta que los datos comienza en la esquina inferior izquierda de la imagen BMP
-	for (i=imagen->alto-1;i>=0;i--)
+	for (i=0;i<imagen.ancho;i++) //
 	{
-		for (j=0;j<imagen->ancho;j++)
+		for (j=imagen.alto-1;j>=0;j--)
 		{  
 			fread(&B,sizeof(char),1, archivo);  //Byte Blue del pixel
 			fread(&G,sizeof(char),1, archivo);  //Byte Green del pixel
@@ -203,10 +202,7 @@ void abrir_imagen(BMP *imagen, char *ruta)
 		}   
 		
 		//Padding (Bytes necesarios para que el Pad row alcance a ser multiplo de 4 Bytes)		
-		for (k=1;k<=imagen->padding;k++)
-		{
-			fread(&var,sizeof(char),1, archivo);  //Leer los pixeles de relleno (Padding)
-		}
+		fread(&var,sizeof(char),imagen->padding, archivo);  //Leer los pixeles de relleno (Padding)
 	}
 	//Cerrrar el archivo
 	fclose(archivo);	
