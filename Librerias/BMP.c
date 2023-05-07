@@ -54,8 +54,8 @@ void abrir_imagen(BMP *imagen, char *ruta)
 	fread(&imagen->reservado,sizeof(int),1, archivo);	
 	fread(&imagen->offset,sizeof(int),1, archivo);	
 	fread(&imagen->tamanoMetadatos,sizeof(int),1, archivo);	
-	fread(&imagen->alto,sizeof(int),1, archivo);	
 	fread(&imagen->ancho,sizeof(int),1, archivo);	
+	fread(&imagen->alto,sizeof(int),1, archivo);	
 	fread(&imagen->numeroPlanos,sizeof(short int),1, archivo);	
 	fread(&imagen->profundidadColor,sizeof(short int),1, archivo);	
 	fread(&imagen->tipoCompresion,sizeof(int),1, archivo);
@@ -85,14 +85,14 @@ void abrir_imagen(BMP *imagen, char *ruta)
 	//*********************************************************************************************************
 	//Reservar memoria para el arreglo que tendra los planos RGB de la imagen (Arreglo de tamaño "img.ancho X img.alto")
 	//*********************************************************************************************************
-	imagen->pixelR=malloc(imagen->alto* sizeof(char *)); 
-	imagen->pixelG=malloc(imagen->alto* sizeof(char *)); 
-	imagen->pixelB=malloc(imagen->alto* sizeof(char *)); 
-	for( i=0; i<imagen->alto; i++)
+	imagen->pixelR=malloc(imagen->ancho* sizeof(char *)); 
+	imagen->pixelG=malloc(imagen->ancho* sizeof(char *)); 
+	imagen->pixelB=malloc(imagen->ancho* sizeof(char *)); 
+	for( i=0; i<imagen->ancho; i++)
 	{
-		imagen->pixelR[i]=malloc (imagen->ancho* sizeof(char)); 
-		imagen->pixelG[i]=malloc (imagen->ancho* sizeof(char)); 
-		imagen->pixelB[i]=malloc (imagen->ancho* sizeof(char)); 
+		imagen->pixelR[i]=malloc (imagen->alto* sizeof(char)); 
+		imagen->pixelG[i]=malloc (imagen->alto* sizeof(char)); 
+		imagen->pixelB[i]=malloc (imagen->alto* sizeof(char)); 
 	}
 		
 	//*********************************************************************************************************
@@ -104,9 +104,9 @@ void abrir_imagen(BMP *imagen, char *ruta)
 	//Algoritmo sobre la imágen a las matrices correspondientes
 	//*********************************************************************************************************
 	//Iterar a través de las filas de píxeles, teniendo en cuenta que los datos comienza en la esquina inferior izquierda de la imagen BMP
-	for (i=imagen->alto-1;i>=0;i--)
+	for (i=imagen->ancho-1;i>=0;i--)
 	{
-		for (j=0;j<imagen->ancho;j++)
+		for (j=0;j<imagen->alto;j++)
 		{  
 			fread(&B,sizeof(char),1, archivo);  //Byte Blue del pixel
 			fread(&G,sizeof(char),1, archivo);  //Byte Green del pixel
@@ -154,8 +154,8 @@ void crear_imagen(BMP *imagen, char ruta[])
 	fwrite(&imagen->reservado,sizeof(int),1, archivo);	
 	fwrite(&imagen->offset,sizeof(int),1, archivo);	
 	fwrite(&imagen->tamanoMetadatos,sizeof(int),1, archivo);	
-	fwrite(&imagen->alto,sizeof(int),1, archivo);	
 	fwrite(&imagen->ancho,sizeof(int),1, archivo);	
+	fwrite(&imagen->alto,sizeof(int),1, archivo);	
 	fwrite(&imagen->numeroPlanos,sizeof(short int),1, archivo);	
 	fwrite(&imagen->profundidadColor,sizeof(short int),1, archivo);	
 	fwrite(&imagen->tipoCompresion,sizeof(int),1, archivo);
@@ -174,9 +174,9 @@ void crear_imagen(BMP *imagen, char ruta[])
 	//Pasar la imágen del arreglo reservado en escala de grises a el archivo (Deben escribirse los valores BGR)
 	//*********************************************************************************************************	
 	//Iterar a través de las filas de píxeles, teniendo en cuenta que los datos comienza en la esquina inferior izquierda de la imagen BMP
-	for (i=imagen->alto-1;i>=0;i--)
+	for (i=imagen->ancho-1;i>=0;i--)
 	{
-		for (j=0;j<imagen->ancho;j++)
+		for (j=0;j<imagen->alto;j++)
 		{  
 			//Ecribir los 3 bytes BGR al archivo BMP, en este caso todos se igualan al mismo valor (Valor del pixel en la matriz de la estructura imagen)
 			fwrite(&imagen->pixelB[i][j],sizeof(char),1, archivo);  //Escribir el Byte Blue del pixel 
