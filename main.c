@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include "Librerias\cubeta.h"
-int main(){
+int main(int argc, char * argv[]){
 BMP imagen;
 
 int RGB[3],RGBC[3],x,y;
-abrir_imagen(&imagen,"ImagenA1.bmp");
+abrir_imagen(&imagen,"ImagenA.bmp");
 
 
 
@@ -18,7 +18,7 @@ printf("Terminado\n");
 crear_imagen(&imagen,"ImagenB.BMP");
 
 /*
-seleccion(&imagen,1,1,RGB);
+seleccion(&imagen,1,50,rgb);
 printf("%d %d %d \n",RGB[0],RGB[1],RGB[2]);
 printf("%d",imagen.ancho);
 printf("%d\n",imagen.alto);
