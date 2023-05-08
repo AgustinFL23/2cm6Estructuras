@@ -170,7 +170,7 @@ void crear_imagen(BMP *imagen, char ruta[])
 	//Iterar a través de las filas de píxeles, teniendo en cuenta que los datos comienza en la esquina inferior izquierda de la imagen BMP
 	for(i=0;i<imagen->ancho;i++) //
 	{ 
-		for(j=0;j<imagen->alto;j++)//
+		for(j=imagen->alto-1;j>=0;j--)//
 		{  
 			fwrite(&imagen->pixelB[i][j],sizeof(char),1,archivo);  //Byte Blue del pixel
 			fwrite(&imagen->pixelG[i][j],sizeof(char),1,archivo);  //Byte Green del pixel
