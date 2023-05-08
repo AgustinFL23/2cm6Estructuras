@@ -2,19 +2,12 @@
 #include "Librerias\cubeta.h"
 int main(){
 BMP imagen;
-char** control;
+
 int RGB[3],RGBC[3],x,y;
 abrir_imagen(&imagen,"ImagenA1.bmp");
 imagen.pixelR[0][0]=(unsigned char)222;
 control=malloc(sizeof(char*)*imagen.ancho);
-for(x=0;x<imagen.ancho;x++){
-	control[x]=malloc(sizeof(char)*imagen.alto);
-}
-for(x=0;x<imagen.ancho;x++){
-	for(y=0;y<imagen.alto;y++){
-		control[x][y]=(unsigned char)0;	
-	}
-}
+
 seleccion(&imagen,1,1,RGB);
 RGBC[0]=223;
 RGBC[1]=223;
