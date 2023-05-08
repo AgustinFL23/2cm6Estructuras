@@ -1,8 +1,8 @@
 #include "cubeta.h"
 
 void cubeta (BMP* img,int*RGBO,int x,int y,int*RGBC){
-	if(x<img->alto && x>=0){
-		if (y<img->ancho && y>=0){
+	if(x<img->ancho && x>=0){
+		if (y<img->alto && y>=0){
 			
 			if(img->pixelR[x][y]==RGBO[0] && img->pixelG[x][y]==RGBO[1] && img->pixelB[x][y]==RGBO[2]){ //gComprueba si el color del pixel actual es igual al que estamos buscando				
 				printf("%d %d \n",x,y);
@@ -12,7 +12,7 @@ void cubeta (BMP* img,int*RGBO,int x,int y,int*RGBC){
 				cubeta(img,RGBO, x, y-1, RGBC); // arriba
 				cubeta(img,RGBO, x+1, y, RGBC); //derecha
 				cubeta(img,RGBO, x, y+1, RGBC); //abajo
-				cubeta(img,RGBO, x-1, y, RGBC); //izquierda
+				//cubeta(img,RGBO, x-1, y, RGBC); //izquierda
 			}
 		}
 	}
