@@ -80,10 +80,23 @@ void ConvertidorPostfijoNumeros(char expresion[])
         char c = expresion[i];
         if (isalpha(c)) {
             int valor = AsignarValor(c);
-            printf("%d", valor);
-            push(&valores, valor);//guardamos los valores en pila
+            push(&valores, valor);
         } 
-
+        else if (c == '(') 
+        {
+            push(&ope, c);
+        } else if (c == ')') 
+        {
+            while (Top(&ope) != '(') {
+                char op = pop(&ope);
+                int b = pop(&valores);
+                int a = pop(&valores);
+                int res = Operar(a, b, op);
+                push(&valores, res);
+            }
+            pop(&ope);
+        } 
+        
         else {
             while (ope.tope > 0 && Prioridad(Top(&ope)) >= Prioridad(c)) {
                 char op = pop(&ope);
@@ -95,7 +108,6 @@ void ConvertidorPostfijoNumeros(char expresion[])
             push(&ope, c);
         }
     }
-
     while (ope.tope > 0) {
         char op = pop(&ope);
         int b = pop(&valores);
@@ -206,3 +218,4 @@ void ConvertidorPostfijo(char expresion[]) //listo
     }
     printf("\n");
 }
+
