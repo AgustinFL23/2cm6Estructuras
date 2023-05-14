@@ -12,7 +12,7 @@ int ComprobarParentesis(char expresion[]);
 void ConvertidorPostfijoNumeros(char expresion[]);
 int AsignarValor(char letra);
 int Operar(int op1, int op2, char operador) ;
-
+int valores[26] = {0}; // Inicializar todos los valores a cero
 
 int main(){
 
@@ -125,8 +125,6 @@ void ConvertidorPostfijoNumeros(char expresion[])
     }
     printf("\nEl resultado de la expresion es: %d\n", pop(&valores));
 }
-
-int valores[26] = {0}; // Inicializar todos los valores a cero
 
 int AsignarValor(char letra) 
 {
