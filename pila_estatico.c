@@ -5,13 +5,12 @@
 #include <math.h>
 #define TAM_MAX 1000
 
-
 void ConvertidorPostfijo(char expresion[]);  
 int Prioridad(char c);
 int ComprobarParentesis(char expresion[]);
 void ConvertidorPostfijoNumeros(char expresion[]);
-int AsignarValor(char letra);
-int Operar(int op1, int op2, char operador) ;
+float AsignarValor(char letra);
+float Operar(elemento op1, elemento op2, elemento operador) ;
 int valores[26] = {0}; // Inicializar todos los valores a cero
 
 int main(){
@@ -39,33 +38,29 @@ int main(){
 
 }
 
-int Operar(int op1, int op2, char operador)
+float Operar(elemento op1, elemento op2, elemento operador) 
 {
-    int resultado;
-    switch (operador) 
-    {
+    float resultado;
+    switch (operador.dato.caracter) {
         case '+':
-            resultado = op1 + op2;
+            resultado = op1.dato.flotante + op2.dato.flotante;
             break;
         case '-':
-            resultado = op1 - op2;
+            resultado = op1.dato.flotante - op2.dato.flotante;
             break;
         case '*':
-            resultado = op1 * op2;
+            resultado = op1.dato.flotante * op2.dato.flotante;
             break;
         case '/':
-            if (op2 == 0) {
-            printf("Error: División por cero.\n");
-            resultado = 0;
-            } else if (op1 % op2 == 0) {
-            resultado = op1 / op2;
+            if (op2.dato.flotante == 0) {
+                printf("Error: División por cero.\n");
+                resultado = 0;
             } else {
-            resultado = (int)(op1 / (float)op2 + 0.5); // Redondear al entero más cercano
+                resultado = op1.dato.flotante / op2.dato.flotante;
             }
-    break;
             break;
         case '^':
-            resultado = pow(op1, op2);
+            resultado = pow(op1.dato.flotante, op2.dato.flotante);
             break;
         default:
             printf("Operador no válido.\n");
@@ -82,63 +77,65 @@ void ConvertidorPostfijoNumeros(char expresion[])
     pila ope;
     ope.tope = 0;
     int i;
+    elemento valor, c;
 
-    
     for (i = 0; expresion[i] ; i++) {
-        char c = expresion[i];
-        if (isalpha(c)) {
-            int valor = AsignarValor(c);
+        c.dato.caracter = expresion[i];
+
+        if (isalpha(c.dato.caracter)) {
+            valor.dato.flotante = AsignarValor(c.dato.caracter);
             push(&valores, valor);
-        } 
-        else if (c == '(') 
-        {
+        } else if (isdigit(c.dato.caracter) || c.dato.caracter == '.') { // Acepta números con decimales
+            ungetc(c.dato.caracter, stdin);
+            scanf("%lf", &valor.dato.flotante); // Utiliza el especificador de formato %lf para números reales
+            push(&valores, valor);
+        } else if (c.dato.caracter == '(') {
             push(&ope, c);
-        } else if (c == ')') 
-        {
-            while (Top(&ope) != '(') {
-                char op = pop(&ope);
-                int b = pop(&valores);
-                int a = pop(&valores);
-                int res = Operar(a, b, op);
+        } else if (c.dato.caracter == ')') {
+            while (Top(&ope).dato.caracter != '(') {
+                elemento op = pop(&ope);
+                elemento b = pop(&valores);
+                elemento a = pop(&valores);
+                elemento res = { .tipo = 'f', .dato.flotante = Operar(a, b, op) };
                 push(&valores, res);
             }
             pop(&ope);
-        } 
-        
-        else {
-            while (ope.tope > 0 && Prioridad(Top(&ope)) >= Prioridad(c)) {
-                char op = pop(&ope);
-                int b = pop(&valores);
-                int a = pop(&valores);
-                int res = Operar(a, b, op);
+        } else {
+            while (ope.tope > 0 && Prioridad(Top(&ope).dato.caracter) >= Prioridad(c.dato.caracter)) {
+                elemento op = pop(&ope);
+                elemento b = pop(&valores);
+                elemento a = pop(&valores);
+                elemento res = { .tipo = 'f', .dato.flotante = Operar(a, b, op) };
                 push(&valores, res);
             }
             push(&ope, c);
         }
     }
     while (ope.tope > 0) {
-        char op = pop(&ope);
-        int b = pop(&valores);
-        int a = pop(&valores);
-        int res = Operar(a, b, op);
+        elemento op = pop(&ope);
+        elemento b = pop(&valores);
+        elemento a = pop(&valores);
+        elemento res = { .tipo = 'f', .dato.flotante = Operar(a, b, op) };
         push(&valores, res);
     }
-    printf("\nEl resultado de la expresion es: %d\n", pop(&valores));
+    printf("\nEl resultado de la expresion es: %.2f\n", pop(&valores).dato.flotante);
 }
 
-int AsignarValor(char letra) 
+float AsignarValor(char letra) 
 {
     int indice = letra - 'A';
     if (valores[indice] != 0) 
     {
-        printf("La letra %c ya tiene asignado el valor %d.\n", letra, valores[indice]);
+        printf("La letra %c ya tiene asignado el valor %.2f.\n", letra, valores[indice]);
         return valores[indice];
     } 
     else 
     {
         printf("Ingrese el valor de la letra %c:\n", letra);
-        scanf("%d", &valores[indice]);
-        return valores[indice];
+        float valor;
+        scanf("%f", &valor);
+        valores[indice] = valor;
+        return valor;
     }
 }
 
@@ -159,21 +156,23 @@ int Prioridad(char c) //listo
     }
 }
 
-int ComprobarParentesis(char expresion[]) //listo
+int ComprobarParentesis(char expresion[]) 
 {
     pila p;
     p.tope = 0;
     int i;
+    elemento c;
 
     for (i = 0; expresion[i] != '\0'; i++) {
-        char c = expresion[i];
-        if (c == '(') 
+        c.tipo = 'c'; // indicamos que el tipo de dato de la estructura es un caracter
+        c.dato.caracter = expresion[i];
+        if (c.dato.caracter == '(') 
         {
             push(&p, c);
         } 
-        else if (c == ')') 
+        else if (c.dato.caracter == ')') 
         {
-            if (p.tope == 0 || pop(&p) != '(') {
+            if (p.tope == 0 || pop(&p).dato.caracter != '(') {
                 return 0;
             }
         }
@@ -181,39 +180,39 @@ int ComprobarParentesis(char expresion[]) //listo
     return (p.tope == 0);
 }
 
-void ConvertidorPostfijo(char expresion[]) //listo
+void ConvertidorPostfijo(char expresion[])
 {
     pila ope;
     ope.tope = 0;
     int i;
+    elemento c;
 
     for (i = 0; expresion[i] != '\0'; i++) {
-        char c = expresion[i];
-        if (isalpha(c)) {
-            printf("%c", c);
+        c.dato.caracter = expresion[i];
+        if (isalpha(c.dato.caracter)) {
+            printf("%c", c.dato.caracter);
         } 
-        else if (c == '(') 
+        else if (c.dato.caracter == '(') 
         {
             push(&ope, c);
         } 
-        else if (c == ')') 
+        else if (c.dato.caracter == ')') 
         {
-            while (Top(&ope) != '(') 
+            while (Top(&ope).dato.caracter != '(') 
             {
-                printf("%c", pop(&ope));
+                printf("%c", pop(&ope).dato.caracter);
             }
             pop(&ope);
         } 
-
         else {
-            while (ope.tope > 0 && Prioridad(Top(&ope)) >= Prioridad(c)) {
-                printf("%c", pop(&ope));
+            while (ope.tope > 0 && Prioridad(Top(&ope).dato.caracter) >= Prioridad(c.dato.caracter)) {
+                printf("%c", pop(&ope).dato.caracter);
             }
             push(&ope, c);
         }
     }
     while (ope.tope > 0) {
-        printf("%c", pop(&ope));
+        printf("%c", pop(&ope).dato.caracter);
     }
     printf("\n");
 }
