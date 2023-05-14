@@ -54,7 +54,15 @@ int Operar(int op1, int op2, char operador)
             resultado = op1 * op2;
             break;
         case '/':
+            if (op2 == 0) {
+            printf("Error: División por cero.\n");
+            resultado = 0;
+            } else if (op1 % op2 == 0) {
             resultado = op1 / op2;
+            } else {
+            resultado = (int)(op1 / (float)op2 + 0.5); // Redondear al entero más cercano
+            }
+    break;
             break;
         case '^':
             resultado = pow(op1, op2);
@@ -118,22 +126,22 @@ void ConvertidorPostfijoNumeros(char expresion[])
     printf("\nEl resultado de la expresion es: %d\n", pop(&valores));
 }
 
-int AsignarValor(char letra) //listo
+int valores[26] = {0}; // Inicializar todos los valores a cero
+
+int AsignarValor(char letra) 
 {
-    int valor = 0; // Inicializar la variable con un valor por defecto
-
-    if (letra >= 'A' && letra <= 'Z') 
+    int indice = letra - 'A';
+    if (valores[indice] != 0) 
     {
-        printf("Ingrese el valor de la letra %c:\n", letra);
-        scanf("%d", &valor);
+        printf("La letra %c ya tiene asignado el valor %d.\n", letra, valores[indice]);
+        return valores[indice];
     } 
-
     else 
     {
-        printf("La letra %c no tiene un valor asignado.\n", letra);
+        printf("Ingrese el valor de la letra %c:\n", letra);
+        scanf("%d", &valores[indice]);
+        return valores[indice];
     }
-
-    return valor;
 }
 
 int Prioridad(char c) //listo
