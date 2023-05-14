@@ -5,7 +5,7 @@
 #include <math.h>
 #define TAM_MAX 1000
 
-void evaluar(pila *S);
+
 void ConvertidorPostfijo(char expresion[]);  
 int Prioridad(char c);
 int ComprobarParentesis(char expresion[]);
@@ -136,13 +136,6 @@ int AsignarValor(char letra) //listo
     return valor;
 }
 
-void evaluar(pila *S)   //listo
-{
-    char p = pop(S);
-    //  Aqui debería evaluarse el operador contra el contenido del stack.
-    printf("%c", p);
-}
-
 int Prioridad(char c) //listo
 {
     switch(c) {
@@ -218,4 +211,3 @@ void ConvertidorPostfijo(char expresion[]) //listo
     }
     printf("\n");
 }
-
