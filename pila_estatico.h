@@ -1,65 +1,70 @@
-#define TRUE 1
 #include <stdio.h>
-#include<stdlib.h>
+#include <stdlib.h>
+
+#define TRUE 1
 #define FALSE 0
 #define TAM_MAX 1000
 
 typedef char boolean;
 
-//estructura de nuestra pila
-typedef struct pila{
+typedef struct elemento {
+    int tipo;
+    union {
+        int entero;
+        float flotante;
+        char caracter;
+    } dato;
+} elemento;
+
+typedef struct pila {
     int tope;
-    char lista[TAM_MAX];
+    elemento lista[TAM_MAX];
 } pila;
 
-void inicializacion(pila *S); //inicializa la pila
-void push(pila *S, char eval); //Coloca elementos en la pila
-int pop(pila *S); //Quita elemtos de la pila
-boolean Empty(pila S); //Comprueba que si la pila esta vacia
-int Top(pila *S); //Devuelve el elemento de la cima de la pila
+void push(pila *S, elemento val);
+elemento pop(pila *S);
+boolean Empty(pila S);
+elemento Top(pila *S);
 
-//Por referencia (), hacemos una modificacion dentro de la pila
-//por apuntador, solamente ocupamos los elementos que tienen sin mosificar la pila
-
-boolean Empty(pila S) //Comprueba si nuestra pila esta vacia
+boolean Empty(pila S)
 {
-    if(S.tope == -1)//si nuestra pila esta vacia es verdadero
-        return 1;
-    return 0;
+    if (S.tope == -1)
+        return TRUE;
+    return FALSE;
 }
 
-void push(pila *S, char val) //ingresamos elementos en nuestra pila
+void push(pila *S, elemento val)
 {
-    if (S->tope<TAM_MAX-1) //-1
-    {
-        S->lista[S->tope] = val; //Nuestra pila se dirije a nuestra lista en el elemeto[ en el primero lugar (0) ], le asignamos el lugar al elemento 
-        S->tope++; //tope +1, esto para evitar sobreescribir elementos
-    }
-    else
-    {
+    if (S->tope < TAM_MAX - 1) {
+        S->tope++;
+        S->lista[S->tope] = val;
+    } else {
         printf("\nERROR Push(s,e):Desbordamiento de pila");
         exit(1);
     }
 }
 
-int pop(pila *S) //Eliminar elementos de nuestra lista y retorna el ultimo elemento guardado en la pila
+elemento pop(pila *S)
 {
-        int aux;
-        aux = S->lista[S->tope-1]; //Nuestro auxiliar se dirige a la posicion donde se encuentra el ultimo elemento guardado
+    elemento aux;
+    if (Empty(*S)) {
+        printf("La pila ya esta vacia");
+        aux.tipo = ' ';
+    } else {
+        aux = S->lista[S->tope];
         S->tope--;
-        return aux;
-    
+    }
+    return aux;
 }
 
-int Top(pila *S) //solo nos devuelve el elemento que esta en el tope de nuestra pila
+elemento Top(pila *S)
 {
-    if (Empty(*S)==1)
-    {
+    if (Empty(*S)) {
         printf("La pila ya esta vacia");
-        return -1;
-    }
-    else
-    {
-        return S->lista[S->tope-1]; //retornamos el ultimo valor ingresado
+        elemento aux;
+        aux.tipo = ' ';
+        return aux;
+    } else {
+        return S->lista[S->tope];
     }
 }
