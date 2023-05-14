@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include<stdlib.h>
 #define FALSE 0
-#define MAX_EXPRE 1000
+#define TAM_MAX 1000
 
 typedef char boolean;
 
@@ -11,8 +11,9 @@ typedef char boolean;
 //estructura de nuestra pila
 typedef struct pila{
     int tope;
-    char lista[1000];
+    char lista[TAM_MAX];
 } pila;
+
 
 
 void inicializacion(pila *S); //inicializa la pila
@@ -20,6 +21,8 @@ void push(pila *S, char eval); //Coloca elementos en la pila
 int pop(pila *S); //Quita elemtos de la pila
 boolean Empty(pila S); //Comprueba que si la pila esta vacia
 int Top(pila *S); //Devuelve el elemento de la cima de la pila
+
+
 
 //Por referencia (), hacemos una modificacion dentro de la pila
 //por apuntador, solamente ocupamos los elementos que tienen sin mosificar la pila
@@ -33,16 +36,16 @@ boolean Empty(pila S) //Comprueba si nuestra pila esta vacia
 
 void push(pila *S, char val) //ingresamos elementos en nuestra pila
 {
-    if (S->tope<MAX_EXPRE) //-1
+    if (S->tope<TAM_MAX-1) //-1
     {
         S->lista[S->tope] = val; //Nuestra pila se dirije a nuestra lista en el elemeto[ en el primero lugar (0) ], le asignamos el lugar al elemento 
         S->tope++; //tope +1, esto para evitar sobreescribir elementos
     }
     else
     {
-        printf("\nERROR Push(s,e):\"Desbordamiento de pila\"");
-		exit(1);	
-    }    
+        printf("\nERROR Push(s,e):Desbordamiento de pila");
+        exit(1);
+    }
 }
 
 int pop(pila *S) //Eliminar elementos de nuestra lista y retorna el ultimo elemento guardado en la pila
