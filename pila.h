@@ -6,23 +6,17 @@
 
 typedef char boolean;
 
-//Esta estructura nos permite guardar el elemento deseado
-
 //estructura de nuestra pila
 typedef struct pila{
     int tope;
     char lista[TAM_MAX];
 } pila;
 
-
-
 void inicializacion(pila *S); //inicializa la pila
 void push(pila *S, char eval); //Coloca elementos en la pila
 int pop(pila *S); //Quita elemtos de la pila
 boolean Empty(pila S); //Comprueba que si la pila esta vacia
 int Top(pila *S); //Devuelve el elemento de la cima de la pila
-
-
 
 //Por referencia (), hacemos una modificacion dentro de la pila
 //por apuntador, solamente ocupamos los elementos que tienen sin mosificar la pila
