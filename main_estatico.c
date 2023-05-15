@@ -1,4 +1,4 @@
-#include "pila.h"
+#include "pila_estatica\pila.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
