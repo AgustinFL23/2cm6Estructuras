@@ -8,7 +8,9 @@ Equipo conformado por:
 
 ## Practicas 
 - [X] &#128272; Practica 1 Algoritmos de ordenamiento
-- [ ] 🔓 Practica 2 Backtracking en Imagenes
+- [X] &#128272; Practica 2 Backtracking en Imagenes
+- [X] &#128272; Practica 3 Pilas (expresiones infijas)
+- [X]  🔓 Practica 4 Simulacion Colas
 ---
 
 
