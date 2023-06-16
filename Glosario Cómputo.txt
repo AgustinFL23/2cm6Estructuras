@@ -1,0 +1,1008 @@
+Acceso directo: se dice que una unidad de almacenamiento de información es de acceso directo (random access) cuando puede recuperar cualquier información directamente, sin necesidad de leer el contenido de la unidad desde el principio.
+Acceso secuencial: se dice que una unidad de almacenamiento de información es de acceso secuencial cuando para recuperar cualquiera información necesita leer el contenido de la unidad desde el principio.
+Activex: tecnología para la interacción entre el pc e internet. Ha sido desarrollada por microsoft y formará parte de los futuros sistemas operatívos, sustituyendo a la tecnología ole. 
+Add-on: módulos que proporcionan nuevas funcionalidades, mejorando las prestaciones de un programa. También se llaman plug-in. 
+Administrador de ficheros: aplicación que permite realizar funciones como la gestión de archivos y la impresión. Con el administrador de ficheros de windows se pueden crear, copiar, buscar o borrar directorios o ficheros, etc.
+Adsl  (asymmetric digital subscriber line):  línea digital asimétrica de abonado. Sistema asimétrico de transmisión de datos sobre líneas telefónicas convencionales (utiliza el clásico cable de cobre telefónico). Existen algunas que alcanzan velocidades de 8 megabits por segundo al bajar información de internet y entre 16 y 576 kilobits en sentido contrario. 
+Agp: puerto de alta velocidad en la placa base que se utiliza para conectar las tarjetas gráficas
+Alfanumérico: cualquier combinación de números, letras y símbolos. Por extensión se suele aplicar a la parte izquierda del teclado para diferenciarlo del pequeño teclado numérico situado a la derecha del mismo. 
+Algoritmo: conjunto de instrucciones concretas y detalladas mediante el cual se consigue una acción determinada. Por ejemplo, una receta de cocina sería un algoritmo que indica el número de pasos necesarios para preparar una comida. 
+Alternativa: esta función aparece como la tecla «alt», que combinándose con distintos números del "teclado numérico" permite obtener uno de los 256 caracteres del código  ascii.
+Alu (arithmetic logic unit): unidad aritmético- lógica del ordenador que realiza las operaciones aritméticas y lógicas.
+Analógico: representación de la información mediante señales (eléctricas, magnéticas...) De intensidad variable (en cambio, las representaciones digitales se realizan mediante números)
+Ancho de banda:  aunque es un término que procede del mundo de las telecomunicaciones, se aplica a memorias y redes para indicar la máxima cantidad de información simultánea que se puede transferir por un canal en cada unidad de tiempo 
+Ansi (american national standards institute): organismo de normalización usa.
+Apache: servidor http de dominio público, que funciona sobre el sistema operativo linux. 
+Api (aplication program interface).  Conjunto de rutinas del sistema que se pueden usar en un programa para gestionar operaciones de entrada/salida de datos, etc. 
+Aplicación: se puede considerar sinónimo de programa o software. 
+Applet pequeña aplicación escrita en java y compilada que se baja cuando es necesaria y se ejecute a través de un programa cliente. 
+Applets java: programas (generalmente formato class) que se ejecutan en los ordenadores clientes. Son independientes de la plataforma. 
+Árbol de directorios: los ordenadores pc cuentan con una estructura de directorios o carpetas. Del directorio raíz van partiendo diferentes ramas o subdirectorios (carpetas), donde se ubican los archivos. 
+Archie: base de datos (cuyo origen es anterior al desarrollo del www) que ofrece un servicio de búsqueda y consulta de ficheros almacenados en servidores ftp. Se puede acceder a ella mediante un programa cliente, un navegador o por correo electrónico.
+Archivo: sinónimo de fichero. Paquete de información (textos, gráficos, programas...) Identificado por un nombre en los sistemas informáticos. 
+Archivo binario: archivo que contiene información almacenada mediante los signos 0 y 1.puede contener gráficos, textos, sonido, programas...
+Arpanet: red telemática precursora de la actual internet, creada en los años 60 por el departamento de defensa de los eeuu
+Arquitectura: en informática se refiere al tipo de estructura hardware de la máquina. Por extensión, también se suele aplicar para clasificar los microprocesadores (arquitectura x86 o 680xx) o el tipo de ranuras de expansión (pci, eisa...). 
+Ascii  (american standard code of information interchange): estándar internacional para codificar  textos, dígitos y puntuación de manera que los pueda leer cualquier ordenador. 
+Asíncrono: forma de realizar comunicaciones en serie entre dos ordenadores en la que los datos se envían sucesivamente mediante un flujo de bits entre bits de arranque y parada en cada carácter.
+Asistente: función de un programa que facilita el manejo del mismo.
+Atm (asyncronous transmision mode). Sistema asíncrono de transmisión de datos usado en banda ancha para aprovechar al máximo la capacidad de una línea. Utiliza la técnica de conmutación de paquetes
+Autoedición: programas para la edición y maquetación electrónica de documentos. Permiten diseñar periódicos y todo tipo de publicaciones. Entre los más reconocidos se encuentran quarkxpress, pagemaker, ventura... 
+Autoexec.bat: uno de los primeros programas que carga automáticamente el sistema operativo al arrancar y en el cual el propio usuario puede intervenir para personalizar el pc al encenderlo. 
+Autopistas de la información: son las grandes redes telemáticas de comunicación, como internet. 
+Avi (audio video interleave): formato de vídeo digital para windows, con sonido incorporado. Propociona secuencias de calidad, pero está poco comprimido. Son los archivos de vídeo habituales de microsoft para windows. 
+Babbage, Charles: Matemático inglés (1792-1871), que diseñó una máquina precursora del ordenador actual, pero que no se pudo llegar a terminar.
+BackUp: Copia de seguridad.
+Bajar: Es cada vez más frecuente oir frases como "Me he bajado de la red una actualización para mi antivirus". 
+Base de datos: Aplicación informática para manejar información en forma de "fichas": clientes, artículos, películas, etc. La mayoría de las bases de datos actuales permiten hacer listados, consultas, crear pantallas de visualización de datos, controlar el acceso de los usuarios, etc. 
+Basic: Lenguaje de programación inicialmente diseñado para principiantes (Beginners All-purpose Symbolic Instruction Code).
+BAT: Extensión de un fichero formado por un lote (batch) de órdenes de Dos.
+Batch: Lote de órdenes que se procesarán una tras otra.
+Baudios: Unidad utilizada para medir la velocidad de transmisión de datos de un módem o una conexión serie entre dos equipos, o entre un equipo y un dispositivo externo. Indica el número de veces por segundo que puede cambiar la señal que se transmite
+BBS: Tablero de Anuncios Electrónico (Bulletin Board System). Servidor de comunicaciones que proporciona a los usuarios servicios variados como correo electrónico, foros de discusión y transferencia de ficheros. 
+BCD: Número decimal codificado en binario (Binary Coded Decimal). Se usan estas siglas para referirse a una forma especial de codificar números decimales en binario, usando 4 bits para cada dígito decimal, de modo que en un byte se pueden almacenar dos números decimales.
+BeOS: Sistema operativo tipo UNIX, de reciente aparición, orientado a la multimedia, creado por Be Inc.
+Binario: sistema de numeración en base 2, de modo que sólo hay dos dígitos posibles: el 0 y el 1. Para formar números "grandes", se usan varios dígitos binarios, que representan cada una de las potencias de 2. 
+BIOS: Sistema de entrada/salida básica (Basic Input Output System). Suele tratarse de uno o varios chips de memoria ROM (habitualmente EPROMs) que contienen las rutinas básicas de entrada y salida, los primeros pasos que debe dar un ordenador al encenderse, la configuración básica del sistema, etc.
+Bit: Es la unidad mínima de información que puede almacenar y manejar un ordenador, equivalente a un 0 o un 1 (abreviatura de Binary Digit - dígito binario).
+Bitmap: (o mapa de bits). Un tipo de imágenes para ordenador, en las que se almacena información sobre los puntos que las componen y el color de cada punto (al contrario que en las imágenes vectoriales). 
+Bitrate: Tasa de bits, cantidad de información que se envía o almacena por segundo (ver VCD, SVCD).
+Bluetooth: Especificación diseñada para conectar diversos dispositivos de forma inalámbrica. La velocidad máxima prevista es de unos 720 Kbps, y el alcance de unos 10 m.
+BMP: Es la Extensión que corresponde a un tipo de fichero gráfico de mapa de bits (el estándar en Windows): BitMaP .
+BNC: Nombre que reciben los conectores usados en los cable coaxiales.
+Boole, George: Matemático inglés (1815-1864), uno de los fundadores de la lógica matemática que usan los ordenadores actuales.
+Boot: ver arranque.
+Borland: Conocido fabricante de software, autor de lenguajes como Turbo Pascal, Turbo C++, Delphi, C++Builder, JBuilder, etc., y de aplicaciones como Paradox, Quattro Pro, etc. Actualmente ha cambiado de nombre y se llama Inprise. [ /Img/ ]
+Borland C: Ver Turbo C.
+Borland Pascal: Ver Turbo Pascal.
+bps: Bits por segundo: es la unidad en que se mide la velocidad de transferencia efectiva de un módem o de una conexión serie. La velocidad habitual de un módem hoy en dia es de cerca de 56000 bps. 
+Bridge: Ver Puente.
+BSD: Berkeley Software Distribution, de la Universidad de California en Berkeley, autora de una versión de UNIX que lleva su mismo nombre.
+Buffer: memoria intermedia para el almacenamiento de datos temporales en la comunicación entre un ordenador y un dispositivo externo (p.ej., una impresora). Cuando es un programa informático el que hace la misión de almacenamiento intermedio para los datos que se envían a la impresora, a dicho programa se le suele llamar Spooler.
+Bug: Error en un programa, que hace que en ciertas circunstancias pueda no comportarse correctamente.
+Bus: Nombre que reciben las "pistas" de circuito impreso por las que circula la información en el interior de un ordenador
+Buscador: página en Internet que permite buscar información a través de ella, bien sea tecleando nosotros mismos una serie de palabras clave, o bien empleando el sistema de menús que la página incorpora. 
+Byte: Es la unidad básica de información. En la práctica, se puede considerar que un byte es la cantidad de espacio necesaria para almacenar una letra. Tiene múltiplos como el Kilobyte, Megabyte, Gigabyte y Terabyte. Internamente, corresponde a 8 bits.
+C: Lenguaje de programación estructurado, de propósito general, cuyo uso está muy extendido. Extensión de los fuentes creados en lenguaje C
+C#: Lenguaje de programación orientado a objetos, evolución del lenguaje C++, desarrollado por Microsoft.
+C++: Lenguaje de programación orientado a objetos, basado en el lenguaje C.
+Cache: Es un tipo de memoria especial, más rápida que la RAM normal (y más cara), que se sitúa en el camino de los datos que van del procesador a la memoria RAM. Así, toda información que va de la RAM al procesador se deja almacenada temporalmente en la memoria caché. 
+CAD: Diseño asistido por ordenador (Computer Aided Design).
+CAE: Ingeniería asistida por ordenador (Computer Aided Engineering).
+Caldera: Una de las casas especializadas en realizar distribuciones de Linux, en concreto la conocida como OpenLinux.
+CAM: Fabricación asistida por ordenador (Computer Aided Manufacturing).
+Campo: En el mundo de las bases de datos, cada uno de los datos que forman un registro (o ficha). Por ejemplo, en la ficha de cada proveedor tendríamos campos como su nombre, su direccion postal, su teléfono, etc.
+Canon: Conocido fabricante de impresoras, ordenadores y otros tipos de hardware.
+Carpeta: (en inglés, "folder") Nombre que se da a los directorios en algunos sistemas, como Windows.
+CASE: Ingeniería de Software Asistida por Ordenador (Computer Aided Sofware Engineering).
+CCD: Dispositivo empleado para captar imágenes. En los scanners, suele tratarse de una fila de células que se desplaza, y en las cámaras digitales de una matriz bidimensional. 
+CD: Normalmente se refiere a Compact Disc. Otras abreviaturas relacionadas son: CD-ROM, CD-R y CD-RW. Un Compact Disc para ordenador será capaz de almacenar cerca de 650 Mb de información (equivalente a 74 minutos de audio). 
+CD-R: Es un Compact Disc en el que se puede grabar información (Recordable), pero no borrar ni modificar la ya existente (la información se puede marcar como borrada, y no se podrá acceder a ella, pero no se recupera el espacio que ocupaba).
+CD-ROM: Es un Compact Disc pregrabado, del que se puede leer información pero no borrarla ni modificarla (Read Only Memory). También se suele usar este mismo nombre para el aparato encargado de leer estos Compact Disc para ordenador (sería más adecuado llamarlo "Lector de CD").
+CD-RW: Es un Compact Disc en el que se puede grabar información y también borrar o modificar la ya existente (ReWritable).
+CE: Nombre que recibía la versión de Windows orientada a ordenadores de pequeño tamaño (PDAs). Recientemente, Windows CE ha cambiado su nombre por "Pocket PC".
+Celeron: Ver Pentium.
+Centrino: Conjunto de tecnologías diseñadas por Intel para ordenadores portátiles. Se trata de ordenadores de peso reducido y mayor autonomía de lo habitual, a cambio de una potencia más limitada. 
+Centronics: Conexión estándar paralelo, usada para conectar un ordenador y una impresora. En el ordenador, suele ser un conector DB25 hembra.
+CF: Abreviatura de Compact Flash.
+CGA: Adaptador gráfico a color (Color Graphics Adapter). Una de las primeras tarjetas gráficas existentes en los PC y compatibles. Permitía resoluciones de 320x200 puntos con 4 colores y de 640x200 puntos en 2 colores.
+CGI: Pequeños programas situados en un servidor Web, para poder ser utilizados desde las páginas Web que se hospeden en dicho servidor (Common Gateway Interface).
+CGM: Es la Extensión que corresponde a un tipo de fichero gráfico vectorial: Computer Graphics Metafile.
+Chat: "Charla", en inglés. Se usa para referirse a las distintas formas posibles de comunicarse en tiempo real con otras personas mediante mensajes escritos, bien sea empleando utilidades como los IRC, o bien mediante los servicios que muchos portales de Internet ponen a disposición de sus usuarios.
+Chicago: Nombre en clave dado a Windows 95 durante su proceso de desarrollo.
+CHM: Es la extensión que corresponde a los ficheros de ayuda de Windows 98 y superiores. [ /Img/ ]
+Chorro de tinta: ver inyección.
+CIM: Fabricación integrada por ordenador (Computer Integrated Manufacturing).
+CISC: Un tipo de procesadores que reconoce un conjunto amplio de órdenes, pero que normalmente realiza los pasos indicados por esas órdenes con menor velocidad que un procesador RISC. Es el caso de la serie X86 de Intel.
+Clave: En el mundo de las bases de datos, se conoce como clave (en inglés Key) al valor de es capaz de distinguir un registro de otro de forma fiable, como podría ser el DNI o el Pasaporte para el caso de una persona (el nombre no sería una clave correcta, ya que sí pueden existir varias personas con el mismo nombre).
+Clic: Se suele llamar "hacer clic" a situar el ratón sobre un cierto elemento de la pantalla y pulsar el botón principal (habitualmente el izquierdo). Algunos autores traducen el verbo inglés "click" por "clickar" o "cliquear".
+Cliente: Un ordenador que accede a los recursos que otro ordenador (el servidor) deja a su disposición.
+Clipboard: Nombre que recibe en inglés el "portapapeles".
+Clipper: Compilador de lenguaje Xbase, desarrollado por Nantucket.
+Clónico: La expresión "clónico" se suele usar casi como sinónimo de "compatible", aunque llevado a un nivel todavía más marcado: un ordenador que sea clónico de otro se parece tanto al original (al menos internamente) como permitan las leyes de copyright.
+Cluster: Un disco duro (y cualquier otro medio de almacenamiento que tenga acceso directo, no secuencial) está dividido en "páginas" en las que podemos guardar información. 
+CMY: Descomposición de colores en función de tres componentes básicos: azul claro (Cyan), violeta (Magenta) y amarillo (Yellow). Es la descomposición habitual en las impresoras. 
+CMYK: Ver CMY.
+Coaxial: Cable de comunicación, usado en algunas redes de ordenadores, formado por un conductor interior, una primera capa de aislante, un segundo conductor en forma de malla u hoja metálica, y un nuevo aislante exterior.
+Cobol: Lenguaje de programación enfocado a aplicaciones de gestión, hoy bastante en desuso (COmmon Businness-Oriented Language).
+Código Máquina: (o lenguaje máquina) Es el lenguaje en el que el ordenador es capaz de reconocer órdenes. Los programas que se creen en otros lenguajes deberán traducirse previamente a Código Máquina (compilarse) o el ordenador no podrá entenderlos.
+Cola: Estructura de datos utilizada en muchos lenguajes de programación, en la cual cada elemento tiene un predecesor (excepto el primero) y un sucesor (excepto el último). 
+COM: Es la extensión que corresponde a un tipo de fichero ejecutable bajo MsDos. Nombre que reciben bajo DOS los puertos serie (para conectar módem o ratón, por ejemplo
+Coma:(fija y flotante): La expresión "coma fija" (en inglés fixed point) se usa para referirse a números con una cantidad de cifras decimales constante. Estos números son más sencillos de manipular (pero menos útiles en la práctica) que los números en "coma flotante" (en inglés, Floating Point), con un número variable de cifras decimales. También se usan las expresiones "punto fijo" y "punto flotante", como traducción más directa del inglés.
+Command.com: Ver Shell.
+Commodore: Casa desarrolladora de hardware, hoy desaparecida, creadora de ordendores como el PET, Vic20, C16, C64, C128, Amiga y algunos compatibles PC (PC-10, PC-20, etc).
+Communicator: Ver Netscape.
+CompactFlash: Tipo de tarjetas de memoria, presentes en muchos dispositivos electrónicos, como cámaras digitales.
+Compaq: Prestigioso fabricante de ordenadores.
+Compatible: Se dice que un ordenador es compatible con otro cuando puede utilizar todo el software diseñado para aquel (a veces incluso todo o parte del hardware ). Hoy en día es frecuente hablar de ordenadores "compatibles" refiriéndose a ordenadores "compatibles PC", con procesadores de la gama x86.
+Compilador: Aplicación informática que se usa para crear programas en un cierto lenguaje de programación. Convierte los programas creados en un lenguaje de programación al lenguaje interno del ordenador (código máquina). 
+Compresor: Aplicación informática que se encarga de "comprimir" la información para que ocupe menos espacio y así facilitar su almacenamiento y su transporte
+Computador: Sinónimo de Ordenador.
+Concurrente: Un ordenador realiza varias tareas de forma concurrente cuando dispone de un solo procesador, y dedica un breve espacio de tiempo a cada una de las tareas sucesivamente.
+Controlador: Se suele llamar controlador (driver, en inglés) al programa necesario para que un cierto programa o sistema operativo sea capaz de utilizar un dispositivo (por ejemplo, una impresora).
+Controladora: Se suele llamar "tarjeta controladora" a la tarjeta de circuito impreso que hay que instalar a un ordenador para que sea capaz de trabajar con un cierto dispositivo (por ejemplo, la controladora de disco curo, que hoy en día suele venir integrada en la placa base de casi cualquier ordenador personal).
+Cookies: Pequeños archivos de texto que un servidor Web almacena en el ordenador del usuario, para guardar información sobre éste, como un número de identificación, una contraseña, sus preferencias o cuántas veces ha visitado el sitio el usuario. 
+Coprocesador: Procesador auxiliar diseñado para descargar de trabajo al procesador principal. Cuando se usa sólo la palabra "coprocesador", es habitual referirse a coprocesadores matemáticos, encargados de realizar operaciones con números reales (con decimales, también llamados de "coma flotante"). 
+CORBA: Common ORB Architecture, un estándar basado en ORB.
+Core:Núcleo. En informática se usa especialmente para referirse al núcleo de un procesador
+Corel: Conocido fabricante de software, autor de paquetes como Corel Draw y que adquirió y desarrolla también otros como Ventura Publisher y WordPerfect. Recientemente ha lanzado al mercado su propia distribución de Linux. [ /Img/ ]
+Correr: Ver Ejecutar .
+Cortafuegos: ver Firewall.
+CP/M: Sistema operativo "profesional" creado por Digital Research, que fue bastante usado en ordenadores de 8 bits.
+CPC: Gama de ordenadores desarrollados por Amstrad a mediados-finales de los años 80, basados en el procesador Z80. Tenían capacidad de realizar gráficos con 16 colores (de una paleta de 27 colores) a 160x200 puntos, 4 colores en 320x200 y 2 colores en 640x480. Podían reproducir sonido stereo (3 canales). 
+Cps: caracteres por segundo: era la unidad en que se medía la velocidad de impresión en las impresorasmatriciales.
+CPU: Unidad Central de Proceso (Central Processing Unit). Ver "procesador".
+Cracker: persona que intenta romper las protecciones de un cierto sistema informático, normalmente con fines maliciosos (distinto de un "hacker", que procura profundizar en un cierto sistema para aprender de él)
+CRC: Código de redundancia cíclica, un código de comprobación que se suele añadir a los datos transmitidos en muchas comunicaciones, y que permiten detectar (hasta cierto punto) si se ha producido algún error en la transmisión.
+Criptografía: diseño de procedimientos para cifrar los mensajes, de forma que si son interceptados, no se pueda saber su contenido.
+CSMA/CD: Acceso múltiple por detección de portadora con detección de colisiones (Carrier Sense Multiple Access with Collision Detection). Sistema de acceso a una red local, por el cual los nodos se aseguran de que la red no está en uso antes de enviar un paquete. La detección de colisiones significa que la red puede determinar cuándo se producen colisiones y proporciona medidas correctoras.
+Cyrix: Conocido fabricante de procesadores, compatibles con la serie X86 de Intel.
+DAC: Conversor de digital a analógico.
+Datagrama: En el mundo de las redes de ordenadores, se suele llamar "datagrama" a un paquete de información que se envía de forma "no orientada a conexión" y "no confiable".
+Dbase: Gestor de bases de datos, realizado por Ashton Tate y posteriormente adquirido y mejorado por Borland.
+DBF: Es la extensión que corresponde a un tipo de fichero de bases de datos, originalmente utilizado por Dbase, pero que es frecuente encontrar en todo tipo de aplicaciones.
+DBMS: Sistema de gestión de bases de datos (DataBase Management System).
+DCC: Abreviatura de la conexión directa por cable, que permite conectar dos ordenadores mediante cable serie o paralelo, sin necesidad de tarjeta de red (Direct Cable Connection)
+DCE: Equipo de comunicación de datos, nombre que suele recibir en una comunicación el módem utilizado por un ordenador para conectarse con otro equipo (Data Communication Equipment).
+DCOM: Modelo de objetos componentes distribuido. Extensiones del Modelo de objetos componentes (COM) que facilita la distribución transparente de objetos a través de redes y de Internet. DCOM forma parte de la especificación administrada por The Open Group para la distribución en plataformas heterogéneas.
+DD: Doble densidad (Double Density). En el caso de diskettes de 3 1/2", la expresión Doble Densidad hace referencia a que tienen una capacidad de 720 Kb (formateado; 1 Mb nominal). Este tipo de diskettes ya están obsoletos. Disco duro (muy poco utilizado con este significado).
+DDE: Forma de compartir información entre distintas aplicaciones en Windows: "Intercambio dinámico de datos" (Dynamic Data Exchange). Hoy en día ha sido desbancado por "OLE".
+DDR: Tipo de memoria RAM, a la que se puede acceder tanto en el flanco de subida de la señal de reloj como en el flanco de bajada, con lo que practicamente se duplica la velocidad de acceso, comparado con los módulos de memoria Dimm convencionales (Double Data Rate).
+Debian: Casa creadora de una distribución de Linux.
+Debugger: Depurador, en inglés.
+Decimal: Sistema de numeración en base 10, el que usamos habitualmente.
+Dell: Prestigioso fabricante de ordenadores, que no suele vender a través de tiendas que actúen de intermediarias, sino directamente por teléfono o Internet.
+Delphi: Herramienta de programación visual para Windows, basada en el lenguaje Pascal, desarrollada por Borland.
+Depurador: Aplicación informática empleada para descubrir posibles errores cuando se crea un programa.
+DES: Conocido sistema de criptografía de clave secreta. Usa bloques de datos de 64 bits y clave de 56 bits.
+Descargar: ver Bajar.
+DeskJet: Gama de impresoras de inyección de tinta creada por Hewlett-Packard.
+Desktop Publishing: Autoedición.
+DFD: Diagrama de Flujo de Datos, una de las notaciones empleadas en la fase de diseño de un programa.
+DHTML: HTML dinámico, que permite crear documentos HTML capaces de cambiar su contenido dinámicamente e interactuar con el usuario.
+DIMM: Tipo de módulos de memoria RAM (Dual In-Line Memory Module). [ /Img/ ]
+Directorio: apartado de un sistema de almacenamiento (diskette, disco duro, CdRom, etc), destinado a contener ficheros (o, a su vez, más directorios, que entonces se suelen llamar "subdirectorios").
+DirectX: Interfaz de programación bajo Windows, que permite acceder directamente al hardware (por ejemplo, tarjetas gráficas y de sonido). Es empleado para programar juegos en este sistema.
+Disco duro: Es un dispositivo de almacenamiento, que nació como evolución del diskette. Tiene una capacidad mucho mayor (hoy en día es habitual que pasen de los 40 Gb) y es mucho más rápido, pero no está diseñado para ser llevado de un sitio a otro, sino para permanecer dentro del ordenador (salvo algunas pocas excepciones, que sí son portables). 
+Disco fijo: Ver disco duro.
+Disco flexible: Ver diskette.
+Disco Winchester: Ver disco duro.
+Diskette:(o floppy disk, o disquete): Es un dispositivo de almacenamiento de información. El diskette tiene poca capacidad (habitualmente 1.44 Mb), pero tiene la ventaja de poderse llevar de un sitio a otro (es extraible). [ /Img/ ]
+Disquete: Ver Diskette.
+DivX: Formato de video comprimido por ordenador. Permite almacenar una película completa en un CD de 650 Mb (según la calidad con que se grabe, porque la tasa de información -bitrate- es variable) con una calidad superior a la de los formatos VCD y SVCD, pero a cambio de que no se pueda reproducir en reproductores de DVD domésticos, sólo en ordenador (al menos por ahora). [ /Img/ ]
+DLL: Biblioteca de enlace dinámico (Dynamic Link Library), que contiene funciones que pueden ser utilizadas desde los programas, y que son cargadas sólo en el momento en que se necesitan. Es un tipo de fichero muy frecuente en Windows.
+DMA: Acceso directo a memoria, un proceso que permite a un dispositivo (externo o interno) transferir datos a la memoria del ordenador a alta velocidad, sin que estos datos pasen por el procesador (Direct Memory Access).
+DNS: Sistema de nombres de dominio (Domain Name System).
+DOC: Extensión de los ficheros de creados con Word y otros procesadores de texto (abreviatura de DOCument).
+DOS: Sistema operativo de disco (Disk Operating System). Se trata de un sistema operativo monousuario y monotarea, basado en línea de comandos
+Dot Pich: Es la separación entre los puntos básicos rojo, verde o azul que se iluminan en un monitor en color para representar un punto de la imagen.Valores frecuentes son 0.28 y 0.26mm de separación.
+Download: ver Bajar.
+DPI: Puntos por pulgada (Dots Per Inch), ver PPP.
+DPMI: Una serie de funciones que permitían a programas de DOS trabajar en modo protegido, aprovechando toda la memoria existente (Dos Protected Mode Interface).
+DRAM: Memoria RAM dinámica.
+DrDos: Ver DOS.
+Drive: Nombre que se suele dar en inglés a una unidad lectora/grabadora, como por ejemplo un disco duro o una diskettera.
+Driver: ver controlador.
+DSL: Línea Digital de Abonado, un tipo de línea digital alternativa a RDSI (Digital Subscriber Line). Existen variantes como ADSL y SDSL.
+DSP: Procesador digital de señal (Digital Signal Processor).
+DSTN: Ver Dual Scan (Dualscan SuperTwist Nematic).
+DTE: Equipo terminal de datos, nombre que suele recibir en una comunicación el ordenador que recibe o envía los datos (Data Terminal Equipment).
+Dual Scan: Tipo de pantalla LCD en color para ordenadores portátiles. Ofrece menos contraste y peor ángulo de visión que las TFT, a cambio de un precio inferior. Se suele abreviar DSTN.
+Duron: Procesador creado por AMD para el mercado de consumo. Existe en el mercado simultáneamente al Athlon (que tiene mayor potencia). Es análogo al Celeron de Intel.
+DVD: Disco digital mejorado, con una capacidad muy superior al CD. (Digital Video Disk o Digital Versatile Disk). Al igual que en los CD, hay distintas variantes según si sólo puede leer, leer y escribir, etc.: DVD-ROM, DVD-RAM, etc. 
+DVD-R, DVD+R: Disco DVD grabable (existen dos tecnologías distintas).
+DVD-RAM: Disco DVD regrabable.
+DVD-RW, DVD+RW: Disco DVD regrabable (se puede borrar información después de grabar, y recuperar el espacio que ésta ocupaba; existen dos tecnologías distintas).
+Datos: Entendemos por DATOS la información que introducimos en el ordenador para ser procesada. POr ejemplo los nombres y las direcciones de los socios de un club, con las que elaboramos un fichero informatizado que nos facilitará la gestión de las cuotas anuales y la emisión de listados.
+Datos Analógicos: Representación de la información (textos, sonidos, imágenes) mediante una señal eléctrica que varia de frecuencia y amplitud. Los datos analógicos pueden transmitirse a través de las líneas telefónicas convencionales.
+Datos Binarios: Representación de la información (textos, sonidos, imágenes) mediante una serie de unos y ceros (bits) que se manifiestan en el ordenador  por la presencia o la ausencia de señal eléctrica. Los sistemas informáticos convierten los datos analógicos en binarios para procesarlos. 
+Decoder: Proceso que convierte ficheros MP3 en pistas de audio (es inverso al "encoder")
+Digital: Valor o magnitud física cuya variación se produce por impulsos de valor constante y de forma discontinua. Es el concepto opuesto a "analógico".
+Digitalización: Convertir cualquier tipo de información al lenguaje binario propio de los ordenadores. 
+Dirección Base: se refiere a la primera dirección de una serie de direcciones de memoria con una determinada funcionalidad: dispositivos de I/O (entrada y salida), etc.
+Dirección De Correo Electrónico: ldentificador del buzón electrónico de cada usuario de e-mail; permite que los mensajes se dirijan en cada caso hacia el buzón correcto.
+Dirección De Memoria: Cada una de las posiciones de la memoria de un ordenador; en ellas se puede almacenar un byte.
+Dirección Ip: Serie de números que se asigna a cada ordenador conectado a lnternet (cliente de Internet) para encaminar la información al mismo (por ejemplo: 193.127.85.01). 
+Dirección Ip Dinámica: Dirección IP que los proveedores de acceso a Internet asignan generalmente a sus clientes. Es distinta cada vez que estos se conectan a Internet.
+Dirección Ip Estática: Dirección IP fija que los proveedores de acceso a Internet asignan a algunos de sus clientes. 
+Dirección Url (UniformResource Locator) Formato de las direcciones de las páginas web.
+Directorio Caché: Carpeta del disco duro de un ordenador en la que se almacenan los elementos  (gráficos, textos, sonidos...) de las páginas web abiertas por un navegador. 
+Directorio:  Carpeta del disco duro que contiene ficheros (programas, textos, gráficos...). Imprescindibles para tener ordenada la información en el disco duro. Dentro de una carpeta también puede haber otras carpetas (subdirectorios).
+Disco: Dispositivo de almacenamiento donde el ordenador puede leer o escribir datos.
+Disco De Arranque: Disco que contiene la información necesaria del sistema operativo para arrancar el ordenador.
+Disco Óptico: Disco que usa la tecnología láser para el registro y lectura de la información. Algunos discos ópticos son regrabables.
+Dll: Extensión distintiva de las librerías de enlace dinámico
+DMA (Direct Memory Access): Sistema de transmisión de datos desde los dispositivos de almacenamiento a la memoria, sin pasar a través del procesador.
+DNS (sistema de nombres de dominio):  Base de datos de nombres de dominios de Internet con sus direcciones IP correspondientes. Al escribir el nombre de una página web que queremos visitar, un servidor DNS lo transforma en su dirección IP para localizarlo.
+Documento Adjunto: Nombre que reciben los ficheros que se adjuntan con los mensajes de correo electrónico.
+Dominio: Nombre que permite identificar un ordenador o un grupo de ellos.
+Dominio Público: Se refiere a aquellos programas que pueden utilizarse libremente. 
+Download: Descarga de un fichero desde un ordenador remoto en Internet hasta nuestro equipo. El envío de un fichero a Internet se denomina "upload" 
+Dram: Memoria RAM dinámica, muy utilizada actualmente por los ordenadores. 
+Driver: Controlador de software que gestiona los periféricos que se conectan al ordenador. Cada periférico necesita unos drivers específicos, que pueden variar según el sistema operativo que tenga el ordenador.
+DRV: Extensión distintiva de los controladores o drivers
+DTMF (Dual Tone MultiFrequence, TouchTone, marcación por tonos). Sistema que emplea tonos para codificar los números telefónicos y utilizarlos en el marcado por tonos.
+Dúplex: Normalmente se refiere a la capacidad de un dispositivo para operar de dos maneras. En comunicaciones designa la capacidad para recibir y transmitir datos, que puede realizarse según dos modalidades: half-duplex (cuando recibe y transmite alternativamente) y full-duplex (cuando puede hacer ambas cosas a la vez). 
+DVB (Digital Video Broadcasto):. Formato de vídeo digital que cumple las especificaciones para ser considerado Broadcast, es decir, tiene suficiente calidad como para ser emitido en cualquiera de los sistemas de televisión. 
+DVD (Digital Video Disk): Discos ópticos que pueden almacenar hasta de 17 «gigas» de información. 
+Ejecutable: Los ficheros ejecutables son programas o ficheros que pueden invocar el porceso de carga de los programas. Su extensión suele ser: COM, BAT y EXE. 
+E-Book: Libro electrónico.
+Eco De Pantalla: El eco de pantalla se produce cuando todo lo que tecleamos o la descripción de las operaciones que realiza el ordenador aparecen inmediatamente escritas en la pantalla. Al trabajar con el sistema operativo MS/DOS el eco de pantalla se puede desconectar mediante la instrucción: ECHO OFF
+E-Learning: Aprendizaje a través de Internet.
+E-Mail: Nombre con el que se designa al correo electrónico. 
+Emoticones: Signos utilizados en los mensajes de correo electrónico para expresar emociones. Los emoticones representan  caras (si se miran de lado). 
+EMS (Enhanced Message Service). Servicio de la telefonía móvil que además de mensajes textuales como el SMS permite enviar iconos y sonidos.
+Emuladores: Programas que permiten que unas máquinas funcionen de manera compatible con otras distintas. Hay emuladores para que los ordenadores Mac funcionen como ordenadores PC en entorno windows. 
+En Linea:  Conectado a Internet o a un servidor remoto.
+Encaminador: Dispositivo que interviene en el sistema de transmisión de paquetes de datos a través de Internet. Los encaminadores leen la dirección de un paquete de datos y deciden cuál es el camino que debe seguir hacia su destino.
+Encoder: Conversión de ficheros de sonido WAV al formato MP3
+Encriptación: Proceso que traduce un mensaje mediante un código especial para que no pueda ser leído por otra persona que no sea el destinatario (que dispone de la clave para descifrarlo) 
+Enlace. Acceso directo a otras páginas web de Internet. Se realiza mediante una palafra subrayada, una imagen...
+Escáner: Periférico que digitaliza documentos.
+Escalabilidad: Característica que permite a los sistemas informáticos crecer, tanto en potencia como en prestaciones, sin tener que renovar los equipos.
+Ethernet: Tarjeta que facilita la conexión de diversos ordenadores en red. Permite una velocidad de transferencia entres 10 y 100 Mbps.
+Exe: La extensión de los archivos ejecutables es COM o EXE
+Extensión: Etiqueta final del nombre de un fichero. que se muestra con tres letras después del nombre y del punto. Cada tipo de archivo tiene una extensión diferente. Por ejemplo, los documentos de Word se llaman .DOC; las páginas web HTM, etc. 
+Editor de textos: Un programa que puede crear o modificar archivos compuestos únicamente por texto sin formato. conocidos comúnmente como archivos de texto.
+Edlin Editor de texto obsoleto en DOS. El equivalente de OS/2 es SSE.
+EDO: Siglas de Extended Data Output, un tipo de chip de RAM dinámica que mejora el rendimiento del modo de memoria Fast Page alrededor de un 10%. 
+EDO RAM: Se trata de una memoria más rapida, ya que incorpora un caché interno que agiliza la transferencia entre el micro y la RAM.
+EDRAM: (Enhanced DRAM) DRAM Ampliado. Chip de DRAM de alta velocidad desarrollado por Ramtron International Corporation, Colorado Springs, CO. EDRAM que permite la superposición de una lectura en el extremo de salida de una operación de escritura a fin de obtener su velocidad.
+Edumática: La Edumática que es la relación entre la EDUCACIÓN y la INFORMÁTICA con el fin de establecer situaciones en las que se utiliza el computador como medio para ayudar al desarrollo del Proceso de Enseñanza-Aprendizaje.
+EEPROM: (Electrically Erasable Progammable Read Only Memory) Memoria de sólo lectura programable y borrable eléctricamente. Chip de memoria que retiene su contenido sin energía. 
+EGA: (Enhanced Graphics Adapter). Sistema de visualización de imágenes en pantalla que mejora las características de su predecesor CGA. Posteriormente fue ampliado y superado por el adaptador VGA, que permite la visualización de mayor número de colores y con mayor resolución.
+EGI: (Embedded Gateway Interface)
+EGP: (Exterior Gateway Protocol) Protocolo de salida exterior. Protocolo que emite direcciones TCP/IP a la salida en otra red.
+EIDE: Enhanced-IDE o IDE realzado, que aparece en el 1.993 para eliminar las limitaciones de IDE. Permite pasar de los 16 cabezales por disco hasta 255 y alcanzar sobre los 8 gigabytes, permitiendo además pasar a 4 dispositivos gracias a la incorporación de un nuevo puerto, de manera que es posible conectar uno como maestro y otro como esclavo en cada uno de ellos.
+EIGRP: (EXTENDED INTERNAL GATEWAY ROUTING PROTOCOL). Un protocolo implementado en los routers Cisco system que mejora el protocolo IGRP de gateway fronterizo interno.
+EIS: (Executive Information System.). Aplicaciones de alto nivel que pretenden, mediante el acceso a las diferentes bases de datos de una empresa, ofrecer a sus directivos los elementos clave para que puedan tomar decisiones sobre la marcha de sus negocios. 
+EISA: (Extendend Industry Standard Architecture). ISA Extendido. Estándar de bus para computadores personales que extiende el bus AT (bus ISA) a 32 bits y suministra dominio del mismo
+EISA :aún corre a la baja velocidad de 8MHz del bus ISA con el fin de acomodar todas las tarjetas ISA que pueden conectarse a éste. Los buses locales PCE y VL proveen velocidades más altas en comparación con EISA.
+EJB: Los Enterprise JavaBeans (también conocidos por sus siglas EJB) son uno de las API que forman parte del estandar de construcción de aplicaciones empresariales J2EE de Sun Microsystems. Los EJBs proporcionan un modelo de componentes distribuido estándar para el lado del servidor
+Ejecución asíncrona (segundo plano): Una vez que el usuario indica a la shell el comando que quiere ejecutar y pulsa INTRO, esta le devuelve el control (es decir, muestra el prompt) de inmediato. 
+Ejecución síncrona (en primer plano): Es la forma mas usual de ejecutar un comando. El usuario escribe el comando en el prompt de la shell, pulsa INTRO y espera a que se ejecute el comando. Solo (importante) después de que el comando se halla ejecutado la shell muestra el prompt indicando que esta preparada para el siguiente comando.
+Ejecutar: En informática, introducir un mandato en el ordenador con el fin de que éste realice una operación determinada.
+ELF: (Executable and Linkable Format) Es el formato estándar de archivo binario para Linux.
+EMA: 1. (Enterprise Management Architecture) Arquitectura de gestión de empresas. Plan estratégico de Digital para integración de redes, sistemas y gestión de aplicaciones. Proporciona el entorno operativo para gestionar una red multivendedor.
+EMA: 2. (Electronic Mail Association) Asociación de Correo Electrónico. Organización de miembros fundada en 1983 con más de 250 vendedores y compañías de usuarios involucrados en mensajes electrónicos e intercambio de información
+Ensamblador: Lenguaje de programación que está a un paso del lenguaje de máquina. El ensamblador traduce cada sentencia del lenguaje ensamblador a una instrucción de máquina. 
+Entidades: Son objetos concretos o abstractos que presentan interés para el sistema y sobre los que se recoge información que será representada en un sistema de bases de datos. Por ejemplo, clientes, proveedores y facturas serían entidades en el entorno de una empresa.
+Entorno: Es otra de las denominaciones que se utilizan para definir el sistema operativo en el que se trabaja.
+Los sistemas operativos DOS o UNIX son entornos basados en texto, mientras que Windows, OS2 o MacOS son entornos gráficos.
+Linux es un entorno basado en texto, aunque en las distribuciones actuales existen entornos gráficos para el mismo.
+EPP: (Enhanced Parallel Port) Se trata de un estándar del puerto paralelo para soportar la comunicación bidireccional.
+EPROM: (Erasable Programmable ROM) ROM programable y borrable.Son las más populares, y su aspecto es muy característico, en efecto se presenta como un circuito integrado normal, pero con una cubierta de cuar-zo al vació de forma que el chip pueda ser alcanzado por las radiaciones ultra-violetas. 
+Las EPROM: se realizan con muy diversas técnicas; las mas corriente es la de-nominada *gate flotante. Se acumula una carga en un gate de silicio policris-talino que flota sobre un sustrato, también de silicio, pero aislado por una capa de bióxido de silicio. 
+EPS: (PostScript Encapsulado). Una extensión del format de archivos de gráficos PostScript desarrollado por Adobe Systems. EPS permite incorporar archivos de gráficos PostScript en otros documentos.
+Equipos Multifuncionales: Son los equipos los cuales se dividen o se subdivide en distintas tareas que pueden ser ejecutadas de forma simultánea. 
+Ergonomia: Estudio de datos biológicos y tecnológicos aplicados a problemas de mutua adaptación entre el hombre y la maquina.
+ERP: (Enterprise resource planning software) Software que unifica todas las necesidades de todos y cada uno de los departamentos en un único sistema, centralizando la información de la empresa y soportando todas las necesidades particulares de cada departamento.
+Error de Encuadre: Error que ocurre en las líneas seriales asíncronas en las que el receptor no detecta un cuadro válido (generalmente un carácter). Las diferencias entre la razón de baudios del transmisor y el receptor pueden producir errores de encuadre.
+Error de sintaxis: Es el error producido cuando el compilador detecta errores de escritura la palabras reservadas en determinado lenguaje de programación o bien cuando no existe una correcta secuencia de comando.
+Error de Transmisión: Cualquier cambio efectuado a los datos a medida que viajan por una red. Los errores de transmisión se deben a interferencias eléctricas o a fallas del hardware.
+ESC/P: Lenguaje de comandos para impresoras creado por EPSON, mediante el cual podemos controlar todas las funciones de la impresora, esta muy extendido en impresoras matriciales y en algunas laser EPSON.
+Escáner: Periférico de entrada de datos (texto impreso e imágenes). Su función es capturar estos datos y transmitirlos al ordenador para su posterior manipulación. Los escáner pueden trabajar con texto impreso, fotografías y dibujos.
+ESCD: (Extended System Configration Data)
+Escritorio: Es la superficie principal del trabajo de Windows. En ella podemos dejar todo tipo de ficheros y aplicaciones para que estén accesibles en cualquier momento
+ESD: (Electrostatic Discharge)
+ESDI: (Enhanced Small Device Interface) Interfaz resaltada de dispositivos pequeños. Interfaz de unidad de disco que transfiere datos en el intervalo de uno a tres Mbytes/seg. ESDI era la interfaz de alta velocidad para computadores pequeños, pero ha sido remplazada por los controladores IDE y SCSI.
+ESDRAM: Enhanced SDRAM – Para superar algunos de los problemas de latencia inherentes con los módulos de memoria DRAM estandar, varios fabricantes han incluido una cantidad pequeña de SRAM directamente en el chip, eficazmente creando un caché en el chip. 
+ESMTP: (Enhanced Simple Mail Transfer Protocol) Extensión del protocolo SMTP para adaptarse a las nuevas necesidades: Varias extensiones: 8BITMIME, DSN, STARTTLS, AUTH...
+ Permite características adicionales como recudir el ancho de banda, reducir la latencia y recuperación majorada de errores.
+Explorer: Navegador diseñado por Microsoft para su uso con Windows95. Actualmente está disponible para otros sistemas operativos.
+ext2: (second extended filesystem). Sistema de ficheros diseñado por Thodore T'so y Rémy Card en 1993, es la evolución del extended filesystem que fue creado para superar las limitaciones del sistema de ficheros Minix, el primero que usaba Linux.
+ext3: (third extended filesystem). Creado en 1999, es una capa implementada sobre el sistema de ficheros ext2 que le añade soporte para "journaling".
+Extensión .BAK: Extensión que identifica a determinadas copias de seguridad de los archivos de inicialización del sistema. Estas copias son generadas por los programas cuando se instalan en el disco duro y modifican alguno de los archivos de inicialización.
+Extensión .OLD: Otra extensión tipica de las copias de seguridad de algunos arhivos fundamentales del sistema. (Ver Extensión .BAK).
+Extensión .TMP: Durante su ejecución, muchas aplicaciones crean archivos temporales en el disco duro que pueden llegar a ocupar varios cientos de KB. La extensión .TMP los identifica. Normalmente desaparecen cuando se cierra el programa, pero si no se sale correctamente de éste, puede quedarse para siempre en el disco duro.
+Extensión de Archivo: Son los caracteres que, precedidos de un punto, aparecen detras del nombre de un archivo. Permiten identificar y clasificar los ficheros.
+Extensiones de frontpage: Son pequeños scripts de servidor, listos para ser utilizados o agregados a las paginas web diseñadas bajo esta aplicación, como por ejemplo, contadores, formularios
+Extranet: Una Extranet es una red de colaboración que utiliza la tegnología Internet. Esta interconecta a una empresa con sus proveedores, clientes u otros socios. 
+FAQ (Frequently Asked Questions, preguntas más comunes): Documento que contiene las preguntas y las respuestas más comunes sobre un tema especifico. 
+Fax-Módem: Módem que también puede funcionar como aparato de fax, facilitando el envío y la recepción de faxes en el ordenador.
+FDISK: Utilidad con la que se realiza la partición de un disco duro.
+Ficheros: Se denomina FICHERO a todo el conjunto de información (programas o datos) que el ordenador almacena en un disco o cinta de manera diferenciada.Todos los ficheros se identifican, y así se diferencian los unos de los otros,  por un NOMBRE y, opcionalmente, una EXTENSIÓN.
+Fibra Optica: cable de fibra de cristal que puede transportar luz.
+Firewall (cortafuegos): Sistema que permite controlar el flujo de informaicón que entra o sale por un periférico. Se utiliza para controlar el tráfico bidireccional en Internet, y proteger así los ordenadores de posibles intromisiones de terceros.
+Firewire (cable de fuego): Interface con la unidad central que permite la conexión "en caliente" con una velocidad de transferencia de 400 Mbps. Resulta idóneo para cámaras de vídeo digital y rebrabadoras.
+Firmware: Programas específicos almacenados en un chip que llevan algunos aparatos para gestionar su funcionamiento.
+Formateo: Acción de dar formato a un disco o disquete. Consiste en grabar unas pistas y unos sectores en su superficie que actúen como coordenadas para facilitar el almacenamiento y la posterior recuperación de la información en los discos.
+Forum: Espacio telemático en el que se trata de un tema determinado. Los visitantes pueden leer los mensajes que ya han escrito otros y dejar los suyos.
+Frame (estructura): En los navegadores de Internet, se refiere a una estructura de algunos documentos HTM que albergan varias ventanas independientes.
+Freeware: Software que se puede utilizar gratuitamente, aunque el propietario conserva el copyright. Suele distribuirse por Internet, a través de los CD de algunas revistas...
+FTP (File Transfer Protocol):  Protoloco empleado para la transmisión de archivos a través de Internet en una red TCP/IP. Hay programas especializados en realizar este trabajo. 
+FTP ANÓNIMO:  Método de conexión a un ordenador remoto que, con la ayuda de un programa FTP, permite acceder a determinados archivos de dominio público que hay en ese sitio.
+Fuera De Linea:  No conectado a Internet (ni a otro un sistema remoto).
+Fórmula: Conjunto de términos que representa una cantidad o que se utilizan para obtener un valor o resolver un problema. 
+Formulario: Objeto de una base de datos utilizado para la introducción, edición y gestión de la información de una tabla de la base de datos. Un formulario ofrece un modo de visualización sencillo de algunos o todos los campos de un registro de manera simultánea.
+Foro: (Forum). Intercambio de información con respecto a un tema determinado o producto específico que es anfitrión en un servicio en línea o BBS
+FORTH: (FOuRTH-generation language) Lenguaje de cuarta generación. Lenguaje de programación de alto nivel creado por Charles Moore a finales de los años sesenta, como una forma de proveer control directo del computador. 
+Fortran: (FORmula TRANslator) Traductor de fórmulas. Primer lenguaje de programación de alto nivel y compilador, desarrollado en 1954 por IBM. 
+FORTRAN IV: es un estándar ANSI, pero FORTRAN V tiene varias versiones patentadas.
+Forward: Reenviar: En el correo electrónico, se suele llamar reenviar (en inglés Forward, abreviado Fwd) a enviar a otras personas un mensaje que hemos recibido. 
+FoxBASE+: DBMS compatible con dBASE III PLUS para Macintosh de Microsoft. Originalmente desarrollado por Fox Software para computadores personales, FoxBASE ganó una reputación por su velocidad y compatibilidad.
+FoxPro: DBMS compatible con dBASE IV para computadores personales, de Microsoft. Como una versión mejorada de FoxBASE, FoxPro incluye interfaces de ventanas, SQL y QBE y tecnología "Rushmore" para consultas rápidas en bases de datos grandes.
+FPM: Siglas de Fast Page Mode, memoria en modo paginado, el diseño más comun de chips de RAM dinámica. El acceso a los bits de memoria se realiza por medio de coordenadas, fila y columna. 
+Fractales: (Fractals). Técnica para describir y comprimir en gran parte imágenes, especialmente objetos naturales como árboles, nubes y ríos. Convierte una imagen en un conjunto de datos y un algoritmo para expandirla nuevamente a su tamaño original.
+Fragmentación: Técnica usada por el IP para dividir un datagrama grande en datagramas más pequeños llamados fragmentos. El destino final reconstruye los fragmentos.
+FRAM: 1. (Ferroelectronic RAM) RAM Ferroelectrónico. Memoria semiconductora no volátil que retiene su contenido sin energía hasta 10 años.
+FRAM: 2. (Ferromagnetic RAM) RAM Ferromagnética. Memoria no volátil que registra bits microscópicos sobre una superficie magnética.
+Frame: Marco, cuadro.
+FrameMaker: Programa de autoedición de Frame Technology Corporation, San Jose, CA, que corre en plataformas UNIX, Macintosh y Windows
+Frecuencia: Número de veces que se repite una onda en una cantidad de tiempo determinada. Su unidad de medida es el hertzio y la velocidad de los procesadores (o ciclos de reloj) se mide en megahertzios (MHz). A mayor índice, más velocidad de proceso. 
+Frecuencia de Muestreo: Es la cantidad de veces que una targeta de audio toma muestras de un sonido determinado durante su grabación.
+FreeHand: Programa de dibujo con todas las facilidades para Macintosh, de Aldus Corporation, Seattle, WA, que combina una amplia gama de herramientas de dibujo con efectos especiales.
+Freelance: Un trabajador freelance, freelancer, autónomo o por cuenta propia es una persona que trabaja de forma autónoma en una profesión, ofreciendo su trabajo a otros o aceptando encargos de ellos, normalmente cobrando por trabajo entregado y sin vinculación contractual.
+Freelance Graphics: Programa de gráficos de presentación para Windows de Lotus, que también forma parte del conjunto de aplicaciones SmartSuite de Lotus.
+Freeware: Software de distribución gratuita. Programas que se distribuyen a través de Internet de forma gratuita.
+FrontEnd: Entiendase como la parte (normalmente es un programa) del proceso de trabajo que interactua con el usuario. El frontend, no procesa la información, si no que le dice al backend, que es lo que quiere el usuario.
+Frontpage: Aplicación creada por Microsoft para la edición de páginas Web, ideal para aquellos que  desconocen cómo trabajar con HTML
+FS: (File System). Sistema de ficheros
+FSB: (Front Side Bus) Hace de puerta de entrada y salida, desde y hacia la memoria principal, desde el microprocesador. Ésta sería la velocidad con que el procesador habla con la placa base.
+FSF: (Free Software Foundation). Fundación dedicada a eliminar las restricciones sobre el copiado, redistribución, entendimiento, y modificación de programas de computadoras.
+Organismo encargado de la defensa del software libre.
+FTAM: (File Transfer Access and Management) Acceso y administración de transferencia de archivos. Protocolo de comunicaciones para la transferencia de archivos entre sistemas de diferentes proveedores.
+FTP: (File Transfer Protocol) Nombre del protocolo estándar de transferencia de ficheros. Su misión es permitir a los usuarios recibir y enviar ficheros de todas las máquinas que sean servidores FTP. 
+Foil screened twisted pair: Cable de par trenzado apantallado utilizado para la transmisión de datos. Básicamente es un cable UTP con pantalla de metal.
+Fuente: En tipografía, se denomina fuente a cada familia de letras, incluyéndose números y demás signos, identificables por su diseño y características peculiares. Un sinónimo de fuente es tipo de letra.
+Fuente de Poder: (fuente de alimentación). Conjunto de transistores, capacitores y transformadores que convierten la corriente directa DC de 230V ó 110V a 5V para suministras energía a la tarjeta madre u otros dispositivos que forman parte del CPU. 
+Fuera de línea: Por oposición al término En Línea, se dice que un dispositivo (una impresora, por ejemplo) está fuera de línea cuando se desconecta del ordenador o de la red de los que recibe información y datos para imprimir.
+Full Duplex: Cualidad de los elementos que permiten la entrada y salida de datos de forma simultánea. El concepto está muy relacionado con el campo de las comunicaciónes en vivo a través de la red, ya que indica que se puedo oir y hablar al mismo tiempo.
+Función: En programación, una rutina de software independiente que realiza una tarea para el programa en que está escrita o para algún otro programa
+Future+: Bus de multisegmento estándar IEEE que puede transferir datos a 32, 64, 128 y 256 bits y direccionar hasta 64 bits. Las velocidades de reloj van de 25 a 100MHz. A 100MHz y 256 bits, transfiere 3.2 Gbytes/seg.
+FX: Siglas que designan un tipo de chipset de Intel para Pentium, conocido comercialmente como "Tritón" y hoy en día en desuso.
+Gateway (puerta de acceso): Dispositivo que permite conectar entre sí una red local LAN con otra red de mayor envergadura. 
+GIF: Formato Gráfico que permite comprimir ficheros con poca pérdida de calidad. Las imágenes GIF utilizan un máximo de 256 colores (8 bits) y permite configurar el fondo de las imágenes transparente. También hay imágenes GIF animadas (GIF98A).
+Giga (Gibabyte): Unidad de medida de volumen de información que equivale a 1.024 Mbytes. 
+Gopher:  Antiguo sistema telemático (anterior al WWW) basado en menús que permite navegar por Internet y recuperar archivos de determinados servidores, los servidores Gopher. 
+Gprs (General Packet Radio Services). Generación puente de telefonía móvil (entre GMS y UMTS) que proporciona mucha mayor velocidad en las comunicaciones con Internet (hasta 115 Kbits/seg)
+Grabar: Acción de almacenar un fichero en un soporte de almacenamiento: disco duro, disquete, CD.... 
+Grupos De Noticias (newsgroups): Tablón de anuncios. Espacios de Internet dedicados a debatir temas específicos donde los que los miembros envían sus comentarios, preguntas e información en general. 
+Gsm (Global System for Mobile Communications). Segunda generación de teléfonos móviles que facilita el acceso WAP  a determinados formatos de páginas web de Internet. La velocidad de acceso a Internet es muy baja (unos 10 Kbits/seg).
+GUI: Interface que utiliza menús e iconos para gestionar el entorno de un programa con la ayuda del ratón.
+GAC: (Global Assembly Cache) Caché de ensamblados globales.
+Directorio específico del ordenador donde se encuentran alojados los ensamblados públicas o compartidos para la plataforma Microsoft CLR (Common Language Runtime).
+Gallium Arsenide: Arseniuro de galio. Aleación de un compuesto de galio y arsénico (GaAs) que se usa como material base para chips. Es varias veces más rápido que el silicio.
+GAMEZ: Término que define la recolección de intercambio de videojuegos comerciales sin comprarlo y sin pagar derechos de autor.
+Gamut: Conjunto de valores que un dispositivo o un formato es capaz de representar. RGB y CMYK son gamuts diferentes.
+Ganancia:  Es el incremento de nivel de una señal cualquiera.
+Gap: Abertura, brecha.
+Gapless: Sin brecha. Cinta magnética que se graba en forma continua, sin brechas entre los bloques.
+Garbage Collection: Recolección de basura. Rutina que busca en la memoria segmentos de programas o de datos que ya no son activos, con el fin de recuperar ese espacio.
+Gate: Puerta, compuerta.
+Gate Array: Matriz o array de puertas. Tipo de chip que contiene elementos lógicos no conectados, por lo general puertas NAND de dos entradas, las cuales pueden interconectarse para proveer todas las operaciones booleanas necesarias para la lógica digital. 
+Gated: Con puerta, con compuerta. Conectar mediante interruptor o ser capaz de encenderse o conectarse y apagarse o desconectarse.
+Gateway: Pasarela, puerta de acceso.
+Gauss: Gausio. Unidad de medida de energía magnética.
+GB: GigaByte. 1.024 megabytes.
+GBIC: Gigabit Interface Converter, Convertidores de Interfaz Gigabit, es un transmisor-receptor que convierte las señales eléctricas utilizado entre los adaptadores del transportador anfitrión (dispositivos similares del canal y de Ethernet de fibra
+GDI: (Graphics Device Interface) Interfaz de dispositivos para gráficos. Lenguaje de gráficos Windows utilizado para proveer salida a la pantalla e impresora. Las aplicaciones llaman a las funciones GDI en Windows para presentación e impresión.
+Geek: Un fanático de la tecnología, especialmente de la computación. Es el estilo de vida del hacker, pero no necesariamente implica tener conocimientos técnicos profundos.
+GEM: (Graphics Environment Manager) Administrador de entorno de gráficos. 
+Generador de Aplicaciones: (Application Generatos). Software que genera programas de aplicación a partir de descripciones del problema en lugar de hacerlo desde una programación tradicional. Está a un nivel más alto que un lenguaje de programación de alto nivel. 
+Genifer: Generador de aplicaciones de dBASE, de Bytel Corporation, Berkeley, CA, que crea el código fuente dBASE.
+GeoWorks Ensemble: Entorno operativo gráfico para DOS de GeoWorks, Inc., Berkeley, CA, que incluye procesamiento de texto, dibujos, comunicaciones, archivo de tarjetas y aplicaciones de calendario
+GHz: (GigaHertZ) Mil millones de ciclos por segundo.
+GIF: (Graphics Interchange Format). Formato de intercambio de gráficos. Un formato de archivo gráfico que se utiliza comúnmente para mostrar imágenes indizadas por color en el Wold Wide Web. 
+Giga: Prefijo que significa mil millones. Con frecuencia se refiere al valor preciso 1,073,741,824, puesto que las especificaciones del computador por lo general están en números binarios.
+Gigabit: Mil millones de bits. También Gb, Gbit y G-bit.
+Gigabyte: Mil millones de bytes. También GB, Gbyte y G-byte.
+Gigaflops: (GIGA FLoating point OPerations per Second) Operaciones GIGA de punto (coma) flotante por segundo. Mil millones de operaciones de punto flotante por segundo.
+Gigaocteto: Unidad de medida de la capacidad de memoria y de dispositivos de almacenamiento informático (disquete, disco duro, CD-ROM, DVD, etc.). Un GB corresponde a 1.024 millones de bytes.
+GIGO: Acronimo que usan ciertos programadores para indicar al usuario que si introduce informacion erronea en un programa, la entrega de resultados será también errónea. Del ingles Garbage In - Garbage Out.
+GIS: (Geographical Information System). Sistema de Información Geográfica que busca referenciar una base de datos con la cartografía de un territorio, ligando ambos conceptos.
+GKS: (Graphical Kernel System) Sistema de núcleo gráfico. Lenguaje de gráficos independiente de dispositivos para imágenes gráficas bidimensionales, tridimensionales y con trama. 
+Glide: Es el estándar gráfico que promovió 3dfx cuando lanzó su gama de targetas Voodoo1
+rma limitada y con todas las opciones si empleaban Glide. Hoy en día está en desuso.
+Glosario: (Glossary). Diccionario técnico que recoge palabras utilizadas en un determinado entorno. En el mundo de la informática -y dada la presencia de numerosos acrónimos y términos en inglés-, abundan los glosarios que recogen definiciones de términos técnicos.
+GMCH: (Graphics and Memory Controller Hub) Se denomina asi al MCH que contiene la controladora de vídeo integrada. Ver MCH.
+GMT: (Greenwich Mean Time). Hora de Referencia de Greenwich.
+GNOME: GNu Object Model Environment, uno de los GUIs más seguidos de UNIX.
+GNU: Licencia Publica General.Software desarrollado para distribución sin fines de lucro.
+GOPHER: Es una herramienta creada para encontrar la información a los recursos que se necesitan. 
+El Gopher básico continua siendo el de la Universidad de Minnesota, que responde al e-mail siguiente: gopher.tc.umn.edu
+GPG: (GNU Privacy Guard) Herramienta para encriptación de datos.
+GPI: (Graphical Programming Interface) Interfaz de programación gráfica. Lenguaje de gráficos de Presentation Manager de OS/2. Es un derivado de la interfaz mainframe GDDM e incluye curvas de Bezier.
+GPIB: (General Purpose Interface Bus) Bus de interfaz de propósito general. Interfaz paralela estándar IEEE 488 que se usa para adicionar sensores e instrumentos programables a un computador. GPIB utiliza un conector de 24 pines (clavijas). La versión de HP es la HPIB.
+GPL: Los programas de ordenador suelen distribuirse con licencias propietarias o cerradas 
+GPRS: (General Packet Radio Service) Es un servicio que permite enviar paquetes de datos a través de las redes GSM. 
+GPS: (Global Position System) Ubicación satelital terrestre.
+El sistema GPS ( Global Positioning System ) es un sistema de posicionamiento que permite, a través de 24 satélites en órbitas alrededor de la tierra, localizar mediante unas coordenadas únicas cualquier equipo radioreceptor terrestre.
+GPU: La unidad de procesamiento gráfico o GPU (acrónimo del inglés Graphics Processing Unit) es un coprocesador dedicado al procesamiento de gráficos u operaciones de coma flotante, para aligerar la carga de trabajo del procesador 
+Grabar: Acción consistente en almacenar información al efecto, generalmente en un disco duro o un disquete situado en el drive correspondiente.
+Gráfico: Llamados gráficos por computador, es la creación y manipulación de imágenes de ilustraciones en el computador. Aquí se define como gráfico para mantenerlo cercano a las otras entradas que comienzan con "gráfico".
+Grafo: Colección de objetos llamados vértices o nodos conectados por aristas ó arcos que pueden tener una orientación.
+Grammatik: Popular programa de comprobación de gramática para DOS, Windows, Macintosh y UNIX de WordPerfect Corporation.
+GRASP: (General Responsability Assignment Software Patterns)
+Groupware: Concepto que implica la utilización masiva de redes de área local, sistemas de correo electrónico y aplicaciones compartidas entre un grupo de usuarios de un sistema informático.
+GRP: (Gross Rating Point) Indicador del número total de impactos conseguidos por cada 100 personas del público objetivo a lo largo de un periodo de tiempo determinado.
+Grupo de Protocolos: Grupo de protocolos que trabajan en conjunto para proporcionar un sistema de comunicación integrado. Cada protocolo maneja un subgrupo de los detalles posibles. Internet usa el grupo de programas de protocolo TCP/IP.
+Grupos De Noticias: Los grupos de noticias, llamados también News Groups, tienen un espíritu parecido a las listas de discusión, pero con diferencias.
+GSM: (Groupe Special Mobile). Especifícación de telefonía móvil digital que busca consolidarse como el estándar europeo de telefonía celular, de forma que se pueda utilizar un mismo teléfono en cualquier país del continente.
+GSOS: (GS Operating System) Sistema operativo GS. Sistema operativo de gráficos para el Apple IIGS que también acepta aplicaciones ProDOS.
+GT: (Global Time). Tiempo Global. Sistema horario de referencia en Internet.
+GUI: (Graphical User Interface). Sistema de interacción entre el ordenador y el usuario, caracterizado por la utilización de iconos y elementos gráficos en su concepción. 
+GUID: (Globally Unique ID)
+Gusano: Es programa similar a un virus que se diferencia de éste en su forma de realizar las infecciones. Mientras que los virus intentan infectar a otros programas copiándose dentro de ellos, los gusanos solamente realizan copias de ellos mismos.
+Gusano de Win32: este tipo de gusanos se propaga a través de las API de Windows, funciones MAPI o clientes de correo electrónico como Microsoft Outlook
+GW-BASIC: (Gee Whiz-Basic) Intérprete de BASIC que acompaña a MS-DOS en versiones anteriores a 5.0.
+GWBASIC: Es un lenguaje de programación con el que se pueden escribir programas de aplicación. Es un lenguaje interpretado, esto significa que cada instrucción en un programa se ejecuta línea por línea.
+Hacker: Informático cuyo objetivo es conseguir romper las barreras de seguridad de Internet y acceder a la información de los particulares y las empresas. Generalmente se limitan a dejar su firma y no causan daños. No piratean el software ajeno.
+Handshaking: método para controlar el flujo de datos entre dos dispositivos.
+HARDWARE (soporte físico): Nombre con el que se designa a los componentes físicos de los sistemas informáticos: unidad central del ordenador, periféricos, cables, conectores... 
+Herzio (Hz): Unidad con la que se mide la frecuencia de las vibraciones de las ondas eléctricas, y que representa 1 ciclo/segundo. Se utiliza para medir la velocidad de trabajo de los microprocesadores, la frecuencia de refresco de la información que se visualiza a través de los monitores...
+Hiperenlaces: Elementos (textos, gráficos...)  resaltados en una página web que permiten acceder directamente a otra página. 
+Hipermedia: Programa multimedia que también contiene hiperenlaces.
+Hipertexto:  Palabra o fragmento de un texto que contiene enlaces a otras partes de un documento o a otros documentos ubicados en el mismo website o otro espacio web distinto. Al clicar sobre un enlace hipertextual (que suele estar subrayado) se pasa  directamente al documento enlazado.
+Hoja De Cálculo: Programa especializado en la realización de estudios de costes y cálculos complejos. Se basa en la utilización de unas celdas en las que se pueden colocar números o fórmulas. Una de las hojas de cálculo más utilizadas es Excel (Microsoft)
+Hoja De Estilo (CSS, Cascading Style Sheet). En los navegadores más avanzados las hojas de estilo recogen un conjunto de características comunes a una serie de páginas web del website. 
+Home Page: Ver página inicial.
+Host: Ordenador principal de una red que gestiona servicios que serán utilizados por las demás máquinas que están conectadas al sistema.
+Hot Line: Servicio telefónico, normalmente gratuito, que ofrecen algunas empresas a sus clientes. 
+Html (HyperText Mark-up Language):  Lenguaje empleado para la creación de páginas Web. Puede incluir enlaces hipertexto, imágenes, sonidos y applets de Java...
+Http (Hiper Text Transport Protocol): Protocolo de transferencia de las páginas web tal como se visualizan con los navegadores o browsers Netscape, Internet Explorer.
+Hyperterminal: Programa de comunicaciones para módem incluido en el sistema operativo Windows.
+Histograma: Gráfico de barras verticales. Todos los programas de gráficos del mercado permiten la opción de generación de histogramas.
+Hit: (acceso, impacto) Se refiere a un impacto o visita a nuestra página de Internet, esto puede hacerse más técnico si tomamos en cuenta que el servidor realiza un hit o impacto por cada lectura de texto y gráficos en nuestra página. 
+HL7: (Health Level Seven) Es un protocolo para el intercambio de información entre sistemas médicos, en su actual versón se basa en XML. Los estándares HL7 son desarrollados por la organización ANSI del mismo nombre.
+HMA: (High Memory Area) Área alta de memoria. En computadores personales, los primeros 64K de memoria extendida de 1024K a 1088K, a la que se puede tener acceso por DOS
+Hoax: Los hoax (mistificación, broma o engaño), son mensajes con falsas advertencias de virus, o de cualquier otro tipo de alerta o de cadena (incluso solidaria, o que involucra a nuestra propia salud), o de algún tipo de denuncia, distribuida por correo electrónico.
+Hoja de cálculo: Tipo de aplicación que es usada en análisis y cálculos matemáticos, que permite trabajar sobre una matriz compuesta por celdas o casillas. 
+Homogéneo: Utilizado para referirse a un sistema informático, quiere expresar que todos sus componentes comparten una misma arquitectura. (Una red de área local que conecte PCs, por ejemplo).
+Hop: (salto) Término utilizado para denominar cada uno de los pasos que es preciso dar para llegar de un punto de origen a otro de destino a lo largo de una red con la ayuda de direccionadores (routers).
+Host: Utilizado a veces como sinónimo de mainframe, en realidad identifica al ordenador central en un sistema informático complejo.
+Hosting: Palabra del Ingles que quiere decir dar hospedar o alojar. Aplicado al Internet, significa poner una pagina web en un servidor de Internet para que esta pueda ser vista en cualquier lugar del mundo entero con acceso al Internet.
+Hot Java: Navegador escrito en lenguaje JAVA por Sun microsystems.
+Hot-line: Generalmente, los suministradores informáticos ofrecen a sus clientes teléfonos de atención gratuitos para resolver sus dudas sobre los productos. Estas líneas reciben el nombre genérico de hot-lines.
+Hotfixes: Es el término que se utiliza para identificar todos los diferentes tipos de paquetes que pueden hacer que un sistema esté al día.
+House Advertising: Toda actividad publicitaria desarrollada por una marca dentro de su propio espacio en Internet para la autopromoción de sus productos o servicios.
+HP: (Hewlett-Packard Company, Palo Alto, CA) El segundo fabricante más grande de computadores y de equipos electrónicos en los Estados Unidos. 
+HPGL: (Hewlett-Packard Graphics Language) Lenguaje gráfico de Hewlett-Packard. Formato de archivo de gráficos vectoriales de HP que fue desarrollado como un lenguaje estándar para trazadores (plotters). La mayor parte de los trazadores soportan los estándares HPGL y DMPL.
+HPSS: (High Performance Storage System) Sistema de almacenamiento de altas prestaciones, es un sistema de E/S diseñado para proporcionar gestión de almacenamiento jerárquico, secundario y terciario, y servicios para entornos con necesidades de almacenamiento medianas y grandes.
+HSSI: (High-Speed Serial Interface) Interfaz en serie de alta velocidad. Estándar para una conexión en serie con velocidades de transmisión de hasta 52 Mbps. Con frecuencia se utiliza para conectar a líneas T3.
+HST: Protocolo de modem asimétrico de U.S. Robotics que incluye control de errores y compresión; transmite de 4800 hasta 14400 bps en una dirección y de 300 a 400 bps en la otra
+HTML: (HyperText Markup Language). Lenguaje de marcado de Hipertexto. Es el lenguaje estándar para describir el contenido y la apariencia de las páginas en el WWW.
+HTTP: (Hiper Text Transfer Protocol). Protocola de transferencia de HiperTexto. Es el protocolo de Internet que permite que los exploradores del WWW recuperen información de los servidores.
+Hub: Dispositivo que integra distintas clases de cables y arquitecturas o tipos de redes de área local.
+Existe una palabra castellana para identificar un Hub, Concentrador. La puntualización es que el Concentrador está a nivel 1 de OSI.
+Hurd: (Hird of Unix-Replacing Daemons) GNU Hurd es un reemplazo del kernel Unix por parte del proyecto GNU
+HUs: (Height Unit) Unidad mínima de medida de un rack, normalizada a 1,75 pulgadas (aproximadamente 4,44 cm).Una HU tiene dos agujeros separados entre sí unos dos centímetros y medio aproximadamente.
+Hybrid Microcircuit: Microcircuito híbrido. Circuito electrónico compuesto de diferentes tipos de circuitos integrados y componentes discretos, montados sobre una base de cerámica. 
+Hyper-Threading: (HT Technology) Sistema que duplica la cantidad de caché L2 a 2 MB lo cual permite que la CPU cargue mas datos con anticipación, antes de que sea necesario y brinda un acceso mas rápido a la memoria.
+Hypertext: Hipertexto. Documento escrito en HTML que contiene enlaces a otros documentos que pueden ser a su vez documentos hiptertexto. 
+HyperTransport: Es un bus de muy baja latencia y gran ancho de banda pensado para transmisiones bidireccionales. Es capaz de trabajar como bus en serie o bus en paralelo. Es el sustituto de NorthBridge y SouthBridge.
+Hertzio. Unidad de medida de la frecuencia electromagnética. Se utiliza para medir la velocidad de los procesadores. También se denomina como número de ciclos de reloj.
+Icono (imagen): Pequeños dibujos e imágenes que han hecho más agradables los entornos de los sistemas operativos (Mac, Windows); al pulsar sobre ellos se ejecutan los programas o las acciones que debe realizar el ordenador (en el sistema operativo MS/DOS había que escribir todas las órdenes). 
+Ieee (Institute of Electrical and Electronic Engineers): Asociación internacional que regula los estándares informáticos y electrónicos.
+Imagen De Bits: Ver mapa de bits.
+Imágenes Mapeadas: Imágenes (como por ejemplo un mapa) que presentan zonas diferenciadas y cada una de estas zonas tiene un hipervínculo específico.
+Imagen Vectorial: Gráfico formado por líneas y curvas definidas por funciones matemáticas de ecuaciones paramétricas (denominadas vectores), que determinan el tamaño, la forma, el color y la posición de cada elemento. Admiten cualquier resolución sin deformarse y son ligeras, ocupan pocos bytes.
+Implementar: Implantar o instalar un sistema informático. 
+Importar: Función de algunos programas mediante la cual es posible utilizar ficheros desarrollados por otros programas, haciéndolos compatibles mediante unos "filtros de importación". 
+Impresoras:  Periféricos que permiten la impresión en papel de la información (gráficos, texto, imágenes, etc.) obtenida en pantalla o gestionada por los sistemas informáticos. Las tres tecnologías de impresión más utilizadas son la matricial, la de inyección de tinta y la láser. 
+Infrarrojo: Bandas de las ondas electromagnéticas que están por debajo de las bandas de luz visible.
+Inteligencia Artificial: Rama de la informática que trata de construir sistemas informáticos que, ante determinados estímulos, se comporten como lo harían los humanos. Dentro de este ámbito se han desarrollado determinados robots, programas de ajedrez...
+Interactivo: que permite un intercambio continuo de información entre el usuario y el ordenador.
+Interface (entorno de comunicación): Se denomina interface a la apariencia visual (pantallas) del programa y la manera en la que se puede comunicar el usuario con él. 
+Interferencia: Fluctuaciones no deseadas de un sistema eléctrico que distorsionan o alteran las señales.
+Internauta: Usuario que accede a los servidores de Internet y navega por sus páginas..
+Internet (Interconected Networks): La red de redes. Es la autopista de la información por excelencia y está constituida por un conjunto de redes telemáticas  interrelacionadas que permiten la comunicación de millones de usuarios en todo el mundo. Todos los ordenadores que están en Internet utilizan el protocolo TCP/IP para comunicarse. 
+Intranet: Red de ordenadores de una institución, generalmente situados localmente en un mismo edificio, que utiliza los protocolos de comunicación TCP/IP  de Internet 
+IP (Internet Protocol):  Protocolo que gestiona la forma en la que los ordenadores conectados a Internet se comunican e intercambian información. 
+IRC (Internet Relais Chat): Redes de Internet que permiten mantener conversaciones en directo (mediante texto o incluso voz) con personas de todo el mundo. Se accede a un  IRC  mediante programas específicos o desde algunas páginas web.
+IrDA (Infrared Data Association). Sistema para la transmisión de información mediante infrarrojos.
+IRQ (Interrup Request, petición de interrupción): Hace referencia a las líneas de interrupción de los ordenadores
+ISDN (Integrated Services Digital Network): Ver RDSI
+ISO (International Standarization Organitation)
+ISP (Internet Service Provider) : Empresas o instituciones proveedoras de acceso a Inetrnet para los particulares y las empresas.
+Independencia de datos: Es la capacidad para modificar el esquema en un nivel del sistema de base de datos sin tener que modificar el esquema del nivel inmediato superior.
+Independencia de Plataforma: Independencia de Plataforma es la capacidad que tiene un programa para moverse de un sistema de computo a otro.
+Independencia física de los datos: Es la capacidad de modificar el esquema interno sin tener que alterar el esquema conceptual (o los externos).
+Independencia lógica de los datos: Es la capacidad de modificar el esquema conceptual sin tener que alterar los esquemas externos, ni los programas de aplicación.
+Indexar: Se usa en las aplicaciones de bases de datos para indicar la operación de ordenar los registros contenidos en ella de manera especial, en función de unos parámetros definidos previamente.
+Infografía: Por extensión, utilización de ordenadores y programas de ilustración y/o dibujo para realizar imágenes que se reproducen en libros, revistas y periódicos.
+Información: Elemento fundamental que manejan los ordenadores en forma de datos binarios. 
+Informática: Ciencia que estudia el tratamiento automático y racional de la información, a traves de los ordenadores. Este termino se refiere a lo mismo que computación, solo que informática tiene origen frances y computación origen ingles.
+Conjunto de técnicas y conocimientos sobre cómo tratar y guardar la información mediante el uso de ordenadores.
+INFORMIX: Familia de DBMS de Informix Software, Inc., Menlo Park, CA, que incluye un DBMS relacional basado en SQL, un lenguaje de cuarta generación y juegos de herramientas para la inclusión del SQL en programas de aplicación.
+Infrarrojos: Emisión de energia en forma de ondas electromagnéticas en la zona del espectro situada inmediatamente después de la zona roja de la radiación visible. 
+Ingeniería Indirecta: Consiste en analizar un programa en un esfuerzo de representarlo en un mayor nivel de abstracción que el código fuente, de forma que se extraiga información del diseño de datos, de la arquitectura y del detalle procedimental del mismo, para poder entenderlo.
+Inicializar:Barbarismo empleado en ocasiones al referirse a la acción de formatear un disco u otro soporte magnético.
+Ink Jet: Chorro de tinta. Mecanismo de impresión que pulveriza uno o más colores de tinta contra el papel, produciendo impresiones de alta calidad similares a las de una impresora láser.
+Inode: Nodo indice que guarda en diferentes campos la información necesaria para que un proceso pueda acceder a un fichero en Unix.
+Campos: propietario, tipo y tamaño del fichero, tiempos de acceso y numero de enlaces al fichero y entradas para los bloques de dirección de los datos del fichero
+Input/Output: Entrada/Salida. En ocasiones, los dispositivos o controladores de entrada y salida de datos se describen con su nombre inglés o con las siglas «I/O» en lugar de «E/S».
+Instrucción: Se utiliza en ocasiones como sinónimo de comando, esto es, cada una de las órdenes que un operador da al ordenador para que ejecute una operación.
+Instrumentos MIDI: En la mayoría de los casos, se trata de sintetizadores, es decir, teclados electrónicos capaces de emular los sonidos que realizan otros instrumentos. 
+Integración de sistemas: De reciente aparición dentro del mundo de la informática corporativa, busca crear estructuras compuestas de ordenadores de distintos tipos y procedencias que interoperen entre sí de manera transparente.
+Integridad: Se refiere a las medidas de salvaguarda que se incluyen en un sistema de información para evitar la pérdida accidental de los datos,
+Intel: Fabricante de los procesadores que llevan su nombre, inventó la arquitectura 80X86
+Inteligencia Artificial: Ciencia que investiga la posibilidad de que un ordenador simule el proceso de razonamiento humano. Pretende también que el ordenador sea capaz de modificar su programación en función de su experiencia y que «aprenda». (Ver: Sistemas Expertos).
+INTELSAT: (INTernational TELecommunications SATellite) Satélite de Telecomunicaciones Internacionales. Organización internacional dedicada al lanzamiento y operación de satélites comerciales. 
+Interactivo: Un sistema es interactivo cuando permite un diálogo continuo entre el usuario y la aplicación, respondiendo ésta a las órdenes de aquel.
+Intercambio de links: Fórmula empleada por algunos webmasters y profesionales del marketing para promocionar un sitio web y mejorar el posicionamiento en buscadores. Consiste en colocar un enlace reciproco entre dos paginas de Internet.
+Interface: Interfaz. Conexión e interacción entre hardware, software y el usuario. El diseño y construcción de interfaces constituye una parte principal del trabajo de los ingenieros, programadores y consultores. 
+Interface de usuario: Engloba la forma en la que el operador interactúa con el ordenador, los mensajes que éste recibe en pantalla, las respuestas del ordenador a la utilización de periféricos de entrada de datos, etc.
+Interface gráfico de usuario: Evolución de los interfaces de usuario que permiten una mejor y más fácil interacción con el ordenador. Los interfaces gráficos -Windows es el ejemplo típico- permiten el aprendizaje intuitivo de los programas, facilitando y reduciendo el tiempo de formación y aumentando la productividad.
+Interfaz: Circuito electrónico que gobierna la conexión entre dos dispositivos de hardware y los ayuda a intercambiar información de manera confiable. Es sinónimo de Puerto.
+Interlazado: (Interlaced) El intelazado permite la descarga progresiva de la imagen, con lo que el usuario tendrá una aproximación de la imagen resultante mucho antes del tiempo total de descarga y con ello paliaremos su posible frustración por la espera, y a la vez le daremos oportunidad de seguir navegando antes. 
+Interlineado: Es la distancia entre dos líneas base consecutivas que no tienen porqué ser iguales al cuerpo del texto.
+Internet: Conjunto de redes de ordenadores creada a partir de redes de menos tamaño, cuyo origen reside en la cooperación de dos universidades estadounidenses.
+Internic: Entidad administrativa de Internet que se encarga de gestionar los nombres de dominios.
+Interoperabilidad: Característica de los ordenadores que les permite su interconexión y funcionamiento conjunto de manera compatible. Esto no siempre es posible, debido a los diferentes sistemas operativos y arquitecturas de cada sistema, pero los esfuerzos de estandarización están permitiendo que cada vez sean más los ordenadores capaces de interoperar entre sí.
+Interoperatividad: Capacidad de los programas de ordenador para intercambiar información y utilizar mutuamente la información así intercambiada
+Intérprete: Programa que realiza un análisis de una aplicación escrita en un lenguaje no-máquina (fácil de entender y trabajar con él) y lo convierte en lenguaje máquina entendible por el ordenador.
+Interrución: Una interrupción es una señal de hardware, esta dice al procesador que detenga temporalmente lo que ejecuta para realizar otra acción.
+Interrupciones: (Interrupt). También conocidas cono IRQ. Recuros que utiliza un dispositivo cuando necesita detener el proceso que está realizando la CPU para informale de que él, por su parte esta haciendo algo. 
+Interstitial: Formatos publicitarios de gran tamaño que aparecen generalmente antes de cargar la página. Son formatos considerados muy "agresivos" por parte del usuario que ve impedida su navegación y penalizada la velocidad de descarga del contenido.
+InterWork: Intercomunicar redes. Ir de una red a otra.
+Intranet: Red propia de una organización, diseñada y desarrollada siguiendo los protocolos propios de Internet, en particular el protocolo TCP/IP. Puede tratarse de una red aislada, es decir no conectada a Internet.
+IOAPIC: (Input Output Advanced Prorammable Input Controller)
+IOS: (Internetwork Operating System). Reunión de aplicaciones ya conocidas (Buscadores, News, IM...), desarrollada por una misma empresa (Rebol) y puestas a disposición de todo usuario de Internet.
+IP: (Internet Protocol) Una dirección IP es un número que identifica de manera lógica y jerárquica a una interfaz de un dispositivo (habitualmente una computadora) dentro de una red que utilice el protocolo IP.
+IP Fija o Estática: Los sitios de Internet que por su naturaleza necesitan estar permanentemente conectados, generalmente tienen una dirección IP fija (se aplica la misma reducción por IP fija o IP estática), 
+IP Dinámica: Se trata de una dirección IP que se puede cambiar al reconectar; y a esta forma de asignación de dirección IP se denomina una dirección IP dinámica (normalmente se abrevia como IP dinámica).
+IP Adress: Dirección IP. Matrícula que identifica a un ordenador de la red. A los ordenadores personales se les asigna una IP adress para que naveguen por la red, que cambia en cada sesión de acceso a Internet. (Ver. Dirección IP).
+IPC: (Inter-Process Communication). Comunicación entre procesos.
+IPng. (Internet Protocol-the Next Generation). Protocolo de Internet: la siguiente generación. Nombre genérico usado durante los debates iniciales de un nuevo protocolo que sucedería al IPv4. Los investigadores propusieron varios protocolos posibles para el IPng.
+IPS: (Internet Protocol Suite)
+IPsec: (Internet Protocol Security)
+IPX: (Internet Packet Exchange). Protocolo de intercambio de Paquetes entre Redes.
+IPX/SPX: Este protocolo, implementado por Novell, ha demostrado sobradamente su valía en redes de área local, es rápido, fácil de configurar y requiere pocas atenciones. Es el protocolo que Microsoft recomienda para redes de área local basadas en DOS, Windows 3.x, Windows 95 y Windows NT.
+ISAM: (Indexed Sequential Access Method) Método de acceso secuencial indexado. Método común de acceso a disco que almacena datos en forma secuencial, al tiempo que mantiene un índice de campos claves para todos los registros en el archivo para acceso directo. El orden secuencial sería el más comúnmente usado para el procesamiento por lotes y la impresión (número de cuenta, nombre, etc.).
+ISAP: (Indexed Sequential Access Method). Método de Acceso Secuencial Indexado. Método de acceso a disco que almacena datos en forma secuencial, al tiempo que mantiene un índice de campos claves para todos los registros en el archivo para acceso directo. 
+ISAPI: Interfaz de programación de aplicaciones de servidor para Internet. Una interfaz para el desarrollo de aplicaciones de servidor Web, desarrollado por Process Software y Microsoft Corporation, que se utiliza en lugar de CGI.
+ISDN: (Integrated Services Digital Network). Siglas inglesas de la RDSI, Red Digital de Servicios Integrados.
+ISO: (International Organization for Standardization). Bajo los auspicios de la ONU, esta organización fija estándares de todo tipo que deben seguir los países miembros.<BR>Se trata de la organización mundial para el desarrollo de estándares.<p>Organización internacional de estándares. 
+Iteración: Repetición de una secuencia de instrucciones o eventos. Por ejemplo, en un lazo de programa, una iteración se produce una vez a través de las instrucciones del lazo.
+ITU: (International Telecommunications Union). Unión Internacional de Telecomunicaciones. Organización que controla las normas para los sistemas de telefonía. La ITU también normaliza algunas tecnologías de red.
+JAVA: Lenguaje de programación, desarrollado por Sun Microsystem,  que también se utiliza para incluir pequeños  programas (applets) en las páginas Web, que se activan al cargar la página. Permiten introducir má sinteracción en las páginas web. El sistema ActiveX de Microsoft funciona de forma parecida.
+JAVASCRIPT: Lenguaje complementario de Java que se utiliza para insertar "scripts" con funcionalidades diversas en las páginas web. Forman parte del lenguaje HTML dinámico; 
+JOYSTICK: Periférico de entrada de información diseñado específicamente para los videojuegos. Los hay de muchos tipos, pero el más utilizado es una especie de palanca con botones 
+JPG / JPEG (Joint Photographics Experts): Formato para comprimir y almacenar imágenes de mapas de bits. Muy utilizado en Internet. Pueden soportar paletas de 16 millones de colores (24 bits). Ofrecen más calidad que las GIF.
+JUMPER: Pequeña pieza de plástico y metal que se inserta en las placas o dispositivos informáticos  para fijar una determinada opción de configuración. 
+J2EE: (Java 2 Enterprise Edition) define un estándar para el desarrollo de aplicaciones empresariales multicapa diseñado por Sun Microsystems. 
+J2ME: (Java 2 Platform Micro Edition) Edición Micro. Una última versión reducida de Java 2 orientada a aplicaciones para dispositivos electrónicos, como móviles, PDAs, etc...
+J2SE: (Java 2 Standard Edition) Edición Estándar. La versión estándar es la más común y cuenta con todo lo necesario para para desarrollos de software y acceso a aplicaciones Java.
+JACK: Tipo de conexión que utilizan muchos cables, por ejemplo los de algunos dispositivos de sonido.
+Jailbreak: Jailbreaking es un proceso que permite a los usuarios de los dispositivos iPhone, iPod Touch y iPad ejecutar código no oficial en éstos dispositivos traspasando el mecanismo de distribución oficial de Apple.
+Javax: Paquete de java que heredado de la clase "java" que contiene los paquetes de la interfaz swing.
+JDK: (Java Development Kit)
+JDML: Java MicroStation Development Language. Lenguaje de programación basado en Java desarrollado por Bentley Systems Inc.
+JFIF: El formato JFIF (JPEG File Interchange Format = Formato de Intercambio de Archivos JPEG) es el más elemental y sólo contiene la imagen. Este formato es el que suelen tener las imágenes con extensión JPG.
+Este formato fue creado por el Independent JPEG Group y la última versión es la versión JPEG FIF 1.02, publicada en septiembre de 1992.
+JFS: (Journalling File System). Sistema de ficheros con Journalling desarrollado por IBM.
+Jitter: Los datos de un CD se guardan en forma de hendiduras microscópicas llamadas Pits. Las diferencias de longitud de los Pits se llaman Jitter y pueden tener un máximo de 35 NanoSegundos para que no se produzcan errores.
+Jobs, Steve: Cofundador de la compañía Apple, junto con su amigo Stephan G. Wozniak. La empresa se constituyó en 1977, utilizando el garaje de Jobs como taller y oficina, pero el éxito de los ordenadores creados por Apple (que posteriormente adquirieron el nombre genérico de Macintosh) fue tan espectacular, que en siete años Jobs pasó de ser un perfecto desconocido a convertirse en una celebridad. Cuando los problemas llegaron a Apple, Jobs dejó la compañía y fundó NeXT, una empresa con buenos productos y tecnología, pero que no ha tenido demasiado éxito.
+JoyStick: Es un dispositivo de entrada que es utilizado, comúnmente en juego de consola o PC. Literalmente, palanca de juegos. Usado para mover un objeto por la pantalla. 
+JPEG: (Join Photograph Expert Group). Union de Grupo de Expertos Fotografico. Formato gráfico con compresion con perdidas que consigue elevados ratios de compresion.
+JSON: (JavaScript Object Notation) Es un formato ligero para el intercambio de datos.
+JSOND: (JavaScript Object Notation with Padding) es una extensión de JSON para soportar llamadas entre dominios.
+JSP: (Java Server Page) Página de Servidor Java. Se refiere a un tipo especial de páginas HTML, en las cuales se insertan pequeños programas que corren sobre Internet (comunmente denominados scripts)
+Jukebox: Sistema de almacenamiento que agrupa un gran número de discos ópticos o magnéticos a los que el ordenador accede en función de sus necesidades. 
+JUMP: Salto. Este término suele aplicarse sobre todo en programación, donde suele distinguirse entre salto incondicional y salto condicional.
+Jumpers: Son unos pequeños interruptores que están en los circuitos impresos de las placas y tarjetas y en los discos y CD-ROMs. Gracias a ellos, se pueden configurar determinados aspectos de estos periféricos.
+Junper: Puente (de conexión). Forma más simple de un conmutador de encendido/apagado. Es un pequeño bloque de metal cubierto de plástico que se presiona sobre dos pines para cerrar el circuito.
+KERNEL: Núcleo básico de los sistemas operativos que gestiona las distintas capas del sistema para su integración con el hardware: entrada de datos, salida... 
+KBPS (Kilobits por segundo): Unidad para medir la velocidad de transmisión de los datos que equivale a 1.024 bits por segundo.
+KILOBYTE: Unidad de medida de volumen de información que equivale a 1.024 bytes. A su vez, 1.024 kilobytes constituyen un megabyte (Mbyte). 
+KDE: Acrónimo que significa "K Desktop Environment", uno de los GUI más importantes para sistemas UNIX. Puede encontrar información más detallada en www.kde.org.
+Kernel: Núcleo. Parte fundamental de un programa, por lo general de un sistema operativo, que reside en memoria todo el tiempo y que provee los servicios básicos. 
+Kerning: Término utilizado en autoedición, consiste en ajustar el espacio existente entre las letras de un texto para que éste ocupe más o menos espacio.
+KEY: Tecla, en su uso más general, o bien, por extensión, el teclado.
+Keyboard: Teclado. Conjunto de teclas de entrada. En terminales y computadores personales, el teclado incluye las teclas de una máquina de escribir estándar y varias teclas especiales tales como control, alt y esc, así como las teclas de función.
+Keyboard Buffer: Memoria intermedia del teclado. Banco de memoria o área de memoria reservada que almacena pulsaciones de teclas hasta que el programa puede aceptarlas. 
+Keygen: Se denominan así, a los programas creados por Crackers, los cuales son capaces de generar las claves de registro de un programa shareware. Estos generadores de registro, normalmente muestran el número de serie a introducir en la aplicación que se quiere registrar.
+Keylogger: Es un programa que recoge las pulsaciones que realiza el usuario sobre el teclado para enviárselo a través de internet, averiguando normalmente las contraseñas que el usuario teclea.
+KHz: (KiloHertZ) Kilohertzio. Mil ciclos por segundo.
+KISS: (Keep it simple, stupid). Mantenlo simple, ... Término para definir la simplicidad de la programación. Cuanto más simple sea un programa, menor probabilidad de que falle.
+Klez.I: Es un gusano que llega en un archivo incluido dentro de un mensaje de correo electrónico escrito en inglés, de asunto muy variable.
+Know how: El término inglés se utiliza, especialmente por las empresas vendedoras de hardware y software, como sinónimo de «experiencia
+Knowbot: robot de conocimiento) Herramienta de recuperación automatizada de información existente en la red. Es una marca registrada de la CNRI (Corporation for National Research Initiatives).
+Knowledge Base: (Base de Conocimiento). En el mundo de la computación consiste en una base de datos de temas relacionados con un sistema informático concreto, hardware o software
+Korn Shell: Shell que recibio el nombre de su creador, David Korn, un investigador de Bell Laboratories de AT&T. Este shell fue presentado por primera vez en 1983 y autorizado para uso público en 1986. 
+LAN: (Local Area Network): Redes de ordenadores comunicados entre a corta distancia mediante cables al efecto. Permiten tener distribuida la información y el intercambio de archivos entre todos los usuarios de la red, compartir bases de datos e las impresoras.... 
+LÁPIZ ÓPTICO: Dispositivo fotosensible y con forma de lápiz que proporciona información al ordenador al desplazarse sobre una pantalla; informa sobre la parte de pantalla que señala.
+LÁSER: Haz de luz muy preciso y potente, con diversas aplicaciones (tanto en informática como en general): sistemas de medición, dispositivos de control, lectores y grabadoras de CD-ROM, impresoras láser, sistemas de almacenamiento óptico, etc. 
+LBA: Modalidad de direccionamiento del disco duro que permite acceder a particiones de disco de más de 528 Mbytes. 
+LCD (Liquid Cristal Display): Pantallas de cristal líquido características de los equipos portátiles y de los relojes, alculadoras, cámaras y vídeos digitales. 
+LENGUAJE DE AUTOR: Los LENGUAJES DE AUTOR son lenguajes de programación de muy alto nivel dirigidos a facilitar la elaboración de programas informáticos a personas con pocos conocimientos informáticos.
+LENGUAJE DECLARATIVO: Los LENGUAJES DECLARATIVOS explican al ordenador QUÉ ha de hacer y le proporcionan unes reglas que puede usar, pero sin determinar exactamente COMO y CUANDO las tiene que aplicar.
+LENGUAJE DE PROGRAMACIÓN: Lenguajes, inteligibles para los sistemas informáticos,  que  permiten desarrollar aplicaciones informáticas. 
+LENGUAJE PROCEDIMENTAL: Los LENGUAJES PROCEDIMENTALES expresan detalladamente las instrucciones que es necesario seguir para realizar un trabajo.
+LIBRERÍA: Conjunto de módulos de programación que se utilizan para desarrollar y diseñar aplicaciones. 
+LINK: En una página web es un hiperenlace que permite acceder directamente a otra página. 
+LINUX: Sistema operativo gratuito, variante de Unix.
+LISTA DE DISTRIBUCIÓN:  Lista de personas suscritas a un grupo de discusión basado en correo electrónico. Cuando un suscriptor envía un mensaje de correo electrónico a la lista de distribución, el mensaje es recibido por  todas las personas de la lista.
+LOGIN: Nombre o identificador de un usuario de un sistema remoto en una red.
+L2TP: (Layer 2 Tunneling Protocol) Protocolo de tunneling de segunda capa.
+LAMBERT: Es la unidad de medida del brillo de una pantalla cualquiera, equivalente al brillo de una superficie de difusión máxima cuando refleja un lumen (unidad de flujo luminoso) por centímetro cuadrado.
+LAMER: Vocablo usado despectivamente para definir a aquellos que presumen de ser Hackers y no lo son.
+LAMP: Describe al conjunto de herramientas utilizadas para generar aplicaciones web. Utiliza la combinación de: Linux, Apache, MySQL y PHP.
+Landing page: Para el marketing on-line, es una página web a la que un usuario accede luego de hacer clic en un link o banner publicitario. 
+Lands: Son las zonas de la espiral del CD que están lisas, al contrario que los Pits. El tamaño de los Pits y de los Lands debe ser el mismo para que el lector de CDs no se líe.
+LANtastic: Popular sistema operativo de LAN par a par para computadores personales de Artisoft, Inc., Tucson, AZ. Soporta adaptadores Ethernet, ARCNET y Token Ring, así como su propio adaptador de par trenzado a dos Mbits/seg.
+Lápiz óptico: Dispositivo de entrada de datos y apuntador que se compone de un aparato similar a un lápiz con una cabeza lectora con la que puede escribirse o dibujarse en la pantalla del ordenador (si ésta es sensible a estos aparatos) o en una tableta digitalizadora
+Laptop: Ordenador portátil.
+Laptop: Computadora portátil, construida con una pantalla líquida, teclado integrado con mouse anexo. 
+Láser: (Light Amplification by Stimulated Emission of Radiation). Dispositivo que produce una luz de longitud de onda única. Se utiliza principalmente como tecnología de impresión.
+LaserJET: Familia de impresoras láser de escritorio, de HP. Introducida en 1984, a un valor de US$3,495, la primera LaserJet revolucionó el mercado de impresoras láser de escritorio
+Latencia: (Timings) Es el dato que nos orienta sobre las prestaciones de una memoria.Se trata de datos relativos, ya que no conocemos las condiciones en que los fabricantes han obtenido esos resultados y a que esas prestaciones varían en función de la configuración del equipo. 
+Latency: Es la cantidad de tiempo que tarda un paquete en ir desde un punto a otro en una red. También denominado retardo.
+Layers: Anuncios animados de pequeño tamaño que aparecen sin previo aviso en la ventana de navegación del usuario; poseen movimiento independiente dentro de la pantalla, lo cual les permite desplazarse sin limitaciones, superponiéndose a los contenidos que se estaban visualizando. 
+LBA: (Logical Block Addressing) Direccionamiento lógico de bloques. Es un modo de direccionar linealmente las direcciones de los sectores de una unidad de almacenamiento físico, comenzando por el sector 1 de cabeza 0, cilindro 0 como LBA 0, y siguiendo hasta el último sector físico de la unidad.
+LCD: (Liquid Cristal Display). Las pantallas de cristal líquido se utilizan principalmente en la construcción de ordenadores portátiles, en los que el tamaño y el peso son dos premisas esenciales. 
+LDA: (Lenguaje de definición de almacenamiento) Este lenguaje permite especificar características físicas de la base de datos (volúmenes y archivos donde van a ser almacenados los datos, etc). en otras palabras especifica el esquema interno de la base de datos.
+LDAP: (Lightweight Directory Access Protocol) Protocolo ligero de acceso a directorios.
+MACRO:  Automatización de determinadas tareas mediante la grabación del proceso (utilizando códigos específicos para cada programa) y la asignación al mismo de una combinación de teclas. 
+MAILING LIST: Direcciones de e-mail donde los subscriptores pueden intercambiar mensajes entre ellos. Generalmente cada lista trata sobre un tema determinado.
+MAPA DE BITS (bit map): Gráfico en el que cada punto de una imagen se representa con uno o varios bytes (portadores de su color). Estas imágenes pueden ser manipuladas por la mayoría de programas de diseño. Los formatos de mapa de bits más habituales son: BMP,  TIFF, JPG, GIF... 
+MAPA DE MEMORIA: Tabla que muestra la situación que ocupan las diversas áreas de memoria de un ordenador (memoria de pantalla, memoria disponible...)
+MÁSCARA: En los programas de dibujo, consiste en la fijación de la zona de la imagen en la que se quiere trabajar,  de manera que sus modificaciones no alteren el resto del dibujo. 
+MASTER: En los ordenadores que tienen varios discos, el master es el disco principal, donde el ordenador va a buscar el sistema operativo cuando se conecta. Los discos secundarios se denominan esclavos. 
+MATRICIAL: Tecnología de impresión tradicional que utiliza un sistema mecánico de impacto sobre una cinta con tinta, con un proceso similar al de las máquinas de escribir.. 
+MEGAHERTZIO (MHz): Un millón de Hertzios. Unidad de frecuencia que se utiliza para medir la velocidad de proceso de los microprocesadores. 
+MEMORIA: La MEMORIA Es el lugar donde el ordenador almacena los programas y las datos que está utilizando. Los ordenadores sólo pueden procesar inmediatamente la información que tienen en su memoria. Per eso, cuando deseamos ejecutar un programa, hemos de cargarlo (almacenarlo) previamente en la memoria.
+MEMORIA ALTA: La MEMORIA ALTA está situada por encima de los primeros 640 Kbytes de memoria RAM y llega hasta los 1.024 Kbytes. Es necesario configurar adecuadamente el ordenador para aprovecharla.
+MEMORIA CONVENCIONAL: La MEMORIA CONVENCIONAL  Es la memoria RAM mínima habitual de los ordenadores que ocupa los primeros 640 Kbytes de memoria. Per sobre de la memoria convencional y puede haber memoria superior y memoria extendida.
+MEMORIA EXTENDIDA: La MEMORIA EXTENDIDA está situada por encima de los primeros 1.024 Kbytes de memoria del ordenador. Suele tener 4, 8 o 16 Mbytes. Es necesario configurar adecuadamente el ordenador para aprovecharla.
+MEMORIA VOLÁTIL: Se Denominan MEMORIAS VOLÁTILES las memorias que pierden su contenido cada vez que se desconecta el ordenador. 
+MICROPROCESADOR: Unidad de proceso del ordenador que ejecuta los programas y controla la circulación de la  información en el sistema informático. 
+MICRORRUPTORES: Los MICRORRUPTORES (DIP) son unos pequeños interruptores mediante los cuales se configuran las impresoras para adaptarlas a las características de los ordenadores. MIDI (Musical Instrument Digital interface): Protocolo para la transmisión de música electrónica.
+MIME (Multipropose Internet Mail Extensions) : Protocolo que permite enviar archivos binarios por correo electrónico y que este llegue en formato original. 
+MMS (Multimedia Message Service): Servicio de la telefonía móvil que permite enviar mensajes con fotos, sonido y texto.
+MÓDEM: Palabra que provienen de la fusión de las palabras modulador/demodulador. El módem pone en comunicación un ordenador con la línea telefónica, permitiéndole acceder a redes telemáticas y comunicarse con otros ordenadores.
+MODULACIÓN DE SEÑAL: Proceso mediante el cual se transforma una señal original para adaptarla al canal a través del cual se va a transmitir (este proceso se realiza sobre una señal que servirá de soporte llamada "señal portadora"). Por ejemplo, un módem modula la señal digital del ordenador para poder transmitirla a través de las líneas telefónicas analógicas. 
+MOV: Formato de vídeo. Son archivos de vídeo de Quick Time
+MP3: Método de grabación digital comprimida y de reproducción de audio, que permite una buena calidad de sonido. Los archivos MP3 se pueden descargar de muchos sitios de Internet
+MPEG (Moving Pictures Experts Group): Sistema de vídeo digital con buena compresión y calidad. Los archivos de vídeo con este formato tienen la extensión MPG. 
+MS-DOS: (Microsoft, Disk Operating System) Sistema operativo que nació con el PC y que ha contribuido a la expansión de la informática. Actualmente ha sido sustituido por Windows y los sistemas operativos de interfaz gráfica. 
+MUD (Multi-user Dungeon, mazmorra multiusuario): Juego de aventura o  rol  que se desarrolla en un mundo virtual (generalmente textual) en el que participan de forma simultánea varios jugadores a través de  Internet. 
+MULTICASTING: Técnica de transmisión de datos a través de Internet que consiste en el envío de paquetes de información desde un punto a varios destinatarios simultáneamente. 
+MULTIMEDIA: Programa que incluye diversos medios: texto, gráficos. audio, vídeo u animación...
+MULTIPROCESADOR: Ordenador que trabaja con dos o más procesadores.. 
+MULTITAREA: Realización de más de un programa o tarea al mismo tiempo en el ordenador. Entre los sistemas operativos multitarea están: OS/2 y o Unix. 
+MP3 Pro: Es la evolucion de los archivos MP3. Este formato totalmente compatible con los reproductores actuales, funciona de la misma forma que su antecesor, pero consigue en un menor espacio mas calidad de compresión. 
+MP4: Formato de codificación de audio basado en MPEG 4 Audio.
+MPEG: (Motion Pictures Expert Group). Grupo de Expertos en Imagen en Movimiento. Formato gráfico de almacenamiento de video. Utiliza como el JPEG compresión con perdidas alcanzando ratios muy altos de compresion.
+MPEG-2: Norma técnica internacional de compresión de imagen y sonido. El MPEG-2 especifica los formatos en que deben de representarse los datos en el descodificador y un conjunto de normas para interpretar estos datos. 
+MPPE: (Microsoft Point-to-Point Encryption) Utilizado para el envío seguro de datos sobre PPTP.
+MPT: (Memory Protocol Translator)
+MPU: (MicroProcessor Unit) Unidad de microprocesador. Equivale a microprocessor.
+MRAM: (Magnetic Random Access Memory) Memoria de acceso aleatorio magnetoresistiva (o magnética). La MRAM utiliza cargas magnéticas y no electrónicas para guardar la información y con ello se retienen los datos cuando la fuente de energía está apagada
+MRP: (Manufacturing Resource Planning or Material Requirements Planning)
+MRP I: Sistema de planificación de componentes de fabricación que mediante un conjunto de procedimientos lógicamente relacionados, traduce un programa maestro en necesidades reales de componentes con fechas y cantidades.
+MRP II: Ampliacióndel MRP de bucle cerrado que de forma integrada y mediante un proceso informatizado en línea, con una base de datos únicapara toda la empresa, participa en la planificación estratégica
+MS-DOS: (Microsoft - Disk Operating System). Siglas que definen uno de los sistemas operativos para PCs más conocido y de mayor implantación. (Ver: DOS). MS-DOS incluye comandos que se pueden utilizar para efectuar las siguientes tareas:
+MSAU: (Multistation access unit). Unidad de acceso de estación múltiple. Concentrador de cableado al que se conectan todas las estaciones finales de una red Token Ring (ieee 802.5)
+MSCDEX: (MicroSoft CD-ROM EXtensions). Extensiones CD-ROM de Microsoft.
+MSFLOPS: Siglas cuyo significado equivale a millones de operaciones de coma flotante por segundo. Suele usarse para determinar la capacidad de un ordenador.
+MSI: (Medium Scale Integration). Se aplica el término a los chips que contienen entre 10 y 500 transistores (Ver: Escalabilidad).
+MTA: (Mail Transfer Agent) Agente de transferencia de correo.
+MTH: (Memory Translator Hub)
+MTS: Microsoft Transaction Server (MTS)supone una poderosa herramienta para controlar y optimizar el rendimiento de nuestras aplicaciones de servidor. 
+MTU: (Maximum Transmission Unit). Unidad máxima de transmisión. Cantidad máxima de datos que pueden transmitirse por una red en un sólo paquete. Cada tecnología de red define una MTU (por ejempTo, la MTU de la Ethernet es de 1500 octetos).
+NANOTECNOLOGÍA: Tecnología que elabora instrumentos y robots minúsculos, de un tamaño aproximado a 10-9. La nanotecnología tiene importantes aplicaciones en medicina.
+NAVEGADOR (browser): Programa que se emplea pata acceder a la información contenida en la World Wide Web y visualizarla. Los más utilizados son: Netscape y Microsoft Internet Explorer.
+NAVEGAR: Desplazarse por las páginas web de Internet mediante un navegador
+NETTIQUETTE: Código de conducta recomendado en las comunicaciones por e-mail, y especialmente en los grupos de discusión y demás foros de Internet.
+NETWORK: Red de trabajo entre varios ordenadores.
+NEWSGROUPS: Ver grupos de noticias. 
+NICK. Nombre con el que se identifican los usuarios en los canales de chat
+NODO DE INTERNET: Cualquiera de los servidores que están permanentemente conectados en Internet. 
+NOMBRE DE DOMINIO: El nombre de dominio identifica a un ordenador en Internet, es una representación textual de la dirección IP de un dominio, y evita que los usuarios de Internet tengan que memorizar series de números. Todos los nombres de dominio acaban con una etiqueta de tipo de organización o código de país. 
+NORMAS V: Normas internacionales de comunicación telemática .que regulan las órdenes de programación y los estándares de compresión de duros que emplean los módems. 
+NOTEBOOK: Ordenador portátil de pequeño tamaño.
+Newton: Newton Es un asistente personal digital (PDA) termino que ocurrió en 1992, John Sulley Presidente de la Apple, para designar una nueva categoría de producto.Una de las primeras palmtops, creada por la firma Apple. 
+Newwave: Entorno desarrollado por HP y Microsoft para Windows. Su objetivo es permitir que los interfaces de los programas de aplicación interactúen con cierto tipo de funciones «inteligentes» que hacen posible ejecutar grupos de aplicaciones que pueden ser definidas como tales por el propio usuario. (Ver: Macros, por ejemplo).
+NeXT: Es la empresa de Steve Jobs, uno de los «padres» de la informática y cofundador de Apple Computer.
+NFS: (Network File System). Sistema de ficheros distribuido para un entorno de red de área local. Posibilita que distintos sistemas conectados a una misma red accedan a ficheros remotos como si se tratara de locales. Originalmente desarrollado por Sun Microsystems Inc.
+Nibble: La mitad de un byte, o sea, 4 bits.
+Un nibble es una colección de cuatro bits, esto no representaría una estructura interesante si no fuera por dos razones: El Código Binario Decimal (BCD por sus siglas en inglés) y los números hexadecimales. Se requieren cuatro bits para representar un sólo dígito BCD NIC: Organismo que se encarga en cada pais de matricular (o sea, de asignar las direcciones IP y los nombres de dominio) a los ordenadores que están conectados a la red.
+Abreviatura de Network Interface Card (adaptador de red)
+Nick: Apodo que se usa en las conversaciones interactivas.
+NIDS: (Network Intrusion Detection Systems) Sistema de detección de intrusos en una Red. Busca detectar anomalías que indican un riesgo potencial, analizando el trafico en la red. Puede tomar medidas protectoras.
+NIS: (Network Information Service). NIS -Sistema de Información de Red-, también es conocido como YP o Yelow Pages es una herramienta para simplificar la administración de varias máquinas en red. 
+NMI: (Non-Maskable Interrupt) Interrupción Hardware: Interrupción prioritaria sobre IRQ e irreversible.
+NNTP: (Network News Transport Protocol) Protocolo de transferencia de Noticias. Es el Protocolo de red utilizado por el Usenet internet service. 
+Nodo: Es el punto en donde se producen dos o más conexiones en una red de comunicaciones. No se trata de un elemento estrictamente físico, sino de una unidad funcional que exige hardware y software. 
+Nombrar: No es otra cosa que poner nombre a un archivo, un directorio o un subdirectorio, de acuerdo con unas reglas que marca el sistema operativo.
+Normalización: La teoría de normalización consiste en obtener esquemas relacionales que cumplan unas determinadas condiciones y se centra en las determinadas Formas normales. 
+Normas DIN: La única forma de que aparatos y sistemas de distintos fabricantes y países puedan trabajar juntos consiste en ponerse de acuerdo y establecer unas normas de fabricación y funcionamiento que todos deben respetar. 
+Novell: ¬Es una de las más importantes firmas en el ámbito de las redes de área local en todo el mundo. La firma es de origen norteamericano y su producto estrella es Netware.
+NSA: (National Security Agency) La Agencia de Seguridad Nacional, es una agencia del gobierno de los Estados Unidos responsable de obtener y analizar información transmitida por cualquier medio de comunicación, y de garantizar la seguridad de las comunicaciones del gobierno contra otras agencias similares de otros países.
+NSAPI: Interface de programación de aplicaciones de servidor de Netscape. Una interface para desarrollo de aplicaciones de servidor Web desarrollada por Netscape Communications Corporation.
+NTFS: (New Technology File System) Es un sistema de archivos diseñado específicamente para Microsoft Windows NT, con el objetivo de crear un sistema de archivos eficiente, robusto y con seguridad incorporada desde su base. 
+NTI: Es una denominación muy frecuente para referirse a las Nuevas Tecnologías de la Información, esto es, todas las relacionadas con la informática y las comunicaciones y, obviamente, ya no tan «nuevas» como tales tecnologías.
+NTIC: Nuevas Tecnologías de la Información y de la Comunicación.
+NTLM: (NT LanMan). El protocolo de autenticación Desafío/Respuesta de Windows NT. Este protocolo utiliza cifrado para la transmisión segura de contraseñas.
+NTP: (Network Time Protocol) Protocolo para sincronizar la hora de los ordenadores mediante servidores de Ineternet.
+NTSC: National Television Standars Committee. Se trata del sistema de televisión adoptado en varios países como EEUU o Japón.
+Nuke: Conexion del host remoto al puerto 139 (NetBios) de tu ordenador, al cual manda un conjunto de paquetes que hace que el ordenador se bloquee o se quede sin red.
+Num lock: apócope de "number lock";lock significa cerrar con llave y ,por extensión en computación es bloquear o desbloquear el teclado númerico.
+Número de Puerto de Protocolo: Número entero pequeño usado para identificar un programa de aplicación en una computadora remota. Los protocolos de transportación, como el TCP, asignan un número de puerto único a cada servicio (por ejemplo, el correo electrónico usa el puerto 25).
+NURBS: (non uniforme rational basic spline)
+OCR (Optical Character Recognition): Sistema de reconocimiento óptico de caracteres que permite reconocer los caracteres y convertirlos a texto informático. Actualmente lo incorporan casi todos los escáneres; permiten recuperar en un editor de textos (como si se hubieran tecleado) los caracteres de los documentos escaneados.
+OFF-LINE: Desconectado de la red.
+OFIMÁTICA: Estudia la informática y la tecnología aplicada a las tareas de la oficina. 
+ON-LINE: En línea. Conectado a la red.
+ORDENADORES PERSONALES: Los ORDENADORES PERSONALES son microordenadores de uso general que por sus altas prestaciones de trabajo
+ORGANIGRAMA: Diagrama que representa las diferentes fases o funciones de un programa.
+ORGWARE: Se refiere a los aspectos organizativos del uso de los sistemas informáticos que garantiza su buen funcionamiento y utilidad para realizar unas tareas determinadas (término acuñado por Dobrov).
+OVERCLOCKING: Operación que consiste en forzar al microprocesador para que vaya a una velocidad superior de la que tiene inicialmente establecida en fábrica.
+OVERWRITE: Escribir información en una parte de la memoria donde ya hay otra información, y por lo tanto la sustituye.
+Open GL: Es un estándar gráfico empleado en estaciones de trabajo y sistemas de diseño asistido por el ordenador que también se utiliza en PCs.
+Open Source: (Código Abierto) Software desarrollado bajo la linea del código Abierto, distribuido de manera gratuita, y sin garantías totales de su funcionamiento.
+OpenLook: Interface gráfico de usuario para X-Windows, desarrollado por la firma Sun Microsystems.
+OPERADOR: Con la aparición de los ordenadores comerciales (segunda generación, 1952-1964), aparece la figura del operador del sistema, entre los que se contaba con un operador general y un operador del equipo periférico.
+OPERADOR GENERAL: Su tarea consistía en supervisar las instrucciones fundamentales del manejo de la computadora que era provistas por el programador; la de vigilar y manejar interruptores y circuitos; dirigir la entrada y la salida, así como también, atender a otros detalles en el curso del procesamiento de datos.
+OPERADOR DEL EQUIPO PERIFÉRICO: Un equipo de computación de los años 60 incluía una diversidad de equipos especializado conexo, conocidas como unidades periféricas, las cuales podían operar fuera de línea, desconectadas del procesador central. 
+Operador Aritmetico: Es aquel que realiza las operaciones de adiccion, sustraccion, multiplicacion y division.
+Operador Lógico: Es aquel que realiza las comparaciones y como determinar si 2 valores son iguales.
+Optimización: La optimización de software es una rama de la Ingeniería de Software que trata de convertir programas existentes en otros programas que realicen las mismas tareas en menos tiempo, con menos requerimientos de memoria, o en general empleando los recursos de forma óptima.
+Oracle: Oracle es un sistema de gestión de base de datos objeto-relacional (o ORDBMS por el acrónimo en inglés de Object-Relational Data Base Management System), desarrollado por Oracle Corporation.
+Se considera a Oracle como uno de los sistemas de bases de datos más completos, destacando:
+Soporte de transacciones, estabilidad, escalabilidad y soporte multiplataforma.
+ORB: Object Request Broker. Es una tecnología middleware que controla la comunicación y el intercambio de datos entre objetos.
+Orden: Son signos o palabras que deben ser transferidos al ordenador mediante el periférico de entrada para que el sistema operativo ejecute una instrucción.
+Ordenador neuronal: Los ordenadores neuronales proceden de una tecnología de última hora. Responden a una arquitectura que se asemeja al modo en que las neuronas se interconexionan en el cerebro humano. 
+Ordenador Personal: PC. Es la denominación más común para una clase de máquinas ya muy populares. 
+Organigrama: Se define como la presentación de las diferentes etapas que es necesario seguir para conseguir la resolucción del problema planteado. 
+OrgWare: Componente estructural de un sistema tecnológico especialmente concebido para integrar al hombre y sus competencias profesionales 
+Orientación a Objeto: En la programación tradicional, se distingue entre los datos y los procedimientos. En la técnica de programación orientada a objeto no es así, puesto que no existen los procedimientos como tales. Los elementos de los programas se denominan objetos y son considerados como entidades independientes que se relacionan e interactúan entre sí.
+OS: (Operating System) Sistema operativo.
+OS/2: OS/2 son las siglas de "Sistema operativo de segunda generación". La idea de OS/2 surgió entre IBM y Microsoft a mediados de los 80
+OS/2 1.0 salió en abril de 1987 y era un sistema operativo de 16 bits, pues estaba pensado para trabajar sobre el microprocesador 286
+OS/400: Sistema operativo propio de la gama de miniordenadores u ordenadores departamentales de IBM, AS/400.
+OSD: "On screen Display", es un sistema que consiste, en mostrar información sobre los ajustes del monitor en la misma pantalla, superpuesta a la imagen del ordenador. 
+OSF: (Open Software Foundation). Consorcio creado para desarrollar estándares Unix. Sus miembros originales eran IBM, DEC, HP, Apollo, Siemens, Nixdorf y la firma francesa Bull.
+OSF/1: Primer producto software desarrollado por la OSF. Es un sistema operativo abierto, como es el caso de Unix. (Ver: Sistemas Abiertos).
+OSI: Siglas que significan Open Systems Interconnection o Interconexión de Sistemas Abiertos. Es un modelo o referente creado por la ISO para la interconexión en un contexto de sistemas abiertos. 
+(Open Source Initiative): Organización dedicada a la promoción del software abierto.
+OSPF: (Open Shortest Path First) Protocolo de dominio público de estado de enlace, definido en el RFC 2178. OSPF comparte información acerca de sus vecinos en una red más amplia denominada sistema autónomo. 
+OSSTMM: (Open Source Security Testing Methodology Manual)
+OUI: (Organizationally Unique Identifier). identiticador único organizacional. Campo de una cabecera LLC que especifica la organización que asignó los números usados para el tipo de información.
+OutLook: Microsoft Outlook es un programa de organización ofimática y cliente de correo electrónico de Microsoft, y forma parte de la suite Microsoft Office.
+Outsourcing: Es un tipo de relación contractual que permite a una organización cualquiera el uso de las instalaciones físicas de otra que, además, provee a la primera de mantenimiento y desarrollo de aplicaciones, proceso de datos, gestión de comunicaciones, cte. 
+Overclocking: Forzar el reloj.
+Forzar la frecuencia de reloj de la CPU: Proceso mediante el cual se acelera el FSB(front side bus) para mejorar el rendimiento del procesador pero al mismo tiempo reduce la vida util de este.
+Overflow: Es una situación de «overflow» aquélla en la que hemos sobre pasado las capacidades de que disponemos cuando, por ejemplo, el ordenador nos indica que no dispone de memoria suficiente para responder a un requerimiento concreto que le hemos pedido. 
+Overlays: Una vez que surgió la multiprogramación, los usuarios comenzaron a explorar la forma de ejecutar grandes cantidades de código en áreas de memoria muy pequeñas, auxiliados por algunas llamadas al sistema operativo. 
+PDF: Formato compatible PC y MAC, para el almacenamiento de la información textual y gráfica
+PÁGINA INICIAL (home page): Página de entrada a un sitio Web. Suele incluir una tabla de contenidos del website y enlaces a los mismos y a otras páginas web relacionadas.
+PÁGINA WEB: Documento electrónico escrito con lenguaje HTML para la World Wide Web. Puede incluir texto, gráficos, sonido. Video, animaciones, hiperenlaces, elementos interactivos... Se sitúa en un servidor con una única dirección URL.
+PARTICIONES: Subdivisiones que a veces se realizan en el disco duro, que para el ordenador queda fragmentado en varias unidades. 
+PASSWORD: Palabra clave que puede ser necesaria para acceder a algún servicio o aplicación informática. 
+PASARELA: Mecanismo que enlaza redes telemáticas y traduce datos entre distintos tipos de redes.
+PATH: Descripción de la ubicación exacta de un fichero dentro de la estuctura de carpetas del disco.
+PCI: Arquitectura de bus de la placa base de los ordenadores (antes se utilizaban las arquitecturas VESA, ISA..., de menor rendimiento). 
+PCMCIA (Personal Computer Memory Card International Association): Sistema de tarjetas para ordenadores portátiles que permite integrar en ellas ampliaciones de memoria y diversos periféricos: mòdems, discos duros, tarjetas de comunicación...
+PDA (Personal Digital Asistant- Asistente Personal Digital): Sistema intermedio entre agenda electrónica y ordenador portátil. Los modelos más avanzados disponen de versiones compatibles con Word, Excel, Outloock... Y algunos incluso incorporan también las funciones de los teléfonos móviles.
+PENTIUM IV: Actualmente es el más potente de los microprocesadores de la empresa  Intel 
+PERIFÉRICOS: Los PERIFÉRICOS son los elementos mediante los cuales el ordenador se comunica con el exterior. A través de ellos recibe programas y datos, presenta los resultados obtenidos, almacenados información en soportes permanentes (no volátiles) y se comunica con otros ordenadores.
+PIRATA INFORMÁTICO: Persona que copia software ilegalmente y lo comercializa sin licencia. A veces también pretende obtener información confidencial de otros usuarios de Internet para utilizarla de manera ilícita.
+PÍXEL: Unidad básica de información gráfica. Cada uno de los puntos que forma una imagen en una pantalla informática. Cada pixel de una imagen en color está formado por tres sectores de color: rojo, azul y verde.
+PIXELADO: Conjunto de puntos (pixels) que componen la pantalla o una imagen determinada. Una imagen está «pixelada» cuando presenta un aspecto de mosaico. 
+PLACA BASE: Placa donde se conectan los principales elementos del ordenador. microprocesador, mamoria, controladores de periféricos...
+PLC (Power Line Communications): Sistema de conexión a Internet que utiliza las redes eléctricas de baja intensidad (domésticas, oficinas) para ofrecer, con un módem PLC
+PLUG&PLAY (Plug & Play - conectar y listo): Tecnología que permite a los ordenadores reconocer (y configurar) en el momento del arranque los  nuevos periféricos que se han conectado. Evita al usuario el tener que indicar IRQ o direcciones de memoria. 
+PLUG-INS: Programas que deben instalarse en los ordenadores clientes para que sus navegadores puedan reconocer y procesar determinados tipos de archivo (Flash, Director, Real Audio...) Se llaman también AD-ON y en definitiva aumentan las capacidades de los navegadores. 
+PNG (Portable Network Graphics): Nuevo formato de imagen que reúne las mejores propiedades de JPG y GIF. Aún no lo soportan todos los navegadores.
+POP (punto de presencia):  Número de acceso telefónico que emplean los ordenadores clientes para conectarse a su proveedor de acceso a Internet con tarifa local. 
+POP3: Protocolo de correo electrónico según el cual los mensajes recibidos en el buzón de un usuario se eliminan del servidor una vez que éste consulta el correo.
+PORTADORA: Señal que transporta determinada información mediante la modulación de su amplitud, frecuencia o fase.
+PPP (Point to Point Protocol, protocolo de transmisión punto a punto): Es el protocolo más fiable y utilizado para la conexión directa a Internet. Emplea TCP/IP para establecer la conexión a través de un módem. 
+PROCESADOR DE TEXTO: Programa diseñado para escribir y tratar textos. Entre los más utilizados están Microsoft Word, Corel WordPerfect... 
+PROGRAMA: Conjunto de instrucciones escritas con un lenguaje de programación que los ordenadores interpretan y facilitan a los usuarios la realización de tareas concretas. 
+PROGRAMA CLIENTE: Software que requiere los servicios de un servidor con el que intercambia datos. Todos los programas cliente están diseñados para funcionar con determinados tipos de servidores. Por ejemplo, CuteFTP es un programa cliente que conecta con los servidores FTP.
+PROGRAMA RESIDENTE: Programa que permanece continuamente en la memoria RAM del ordenador. Por ejemplo los antivirus. 
+PROFUNDIDAD DE COLOR: Número de bits que se utilizan para codificar los colores que se pueden utilizar en una imagen, programa o equipo informático. 
+PROGRAMA: Conjunto de instrucciones que el ordenador puede entender y ejecutar.
+PROMPT: Indicación visible en la pantalla del ordenador que indica la posición del cursor.
+PROTOCOLO: Conjunto de normas que deben cumplir dos ordenadores para que puedan comunicarse. Los protocolos permiten que puedan comunicarse entre si productos de diversos fabricantes.
+PROVEEDOR DE ACCESO A INTERNET: Empresa que proporciona acceso a Internet previo pago de una cuota.
+PS/2: Interfaz para la conexión de ratones y teclados que proporciona una comunicación más rápida y permanente con la unidad central.
+PUERTO PARALELO: Dispositivo de salida del ordenador que sirve para comunicarse con otros periféricos enviando varios bits (generalmente 8) simultáneamente a través de conductores independientes. 
+PUERTO SERIE: Conexión del ordenador para comunicarse con otros periféricos mediante la transmisión de sucesiva de bits (uno a uno).Se suele utilizar para conectar módems, ratones... Uno de los protocolos más utilizados es el RS-232
+PABX: Es un tipo de nodo de comunicaciones cuya principal utilidad es la conexión con la red telefónica. Conlleva mensajería vocal, concentrador de terminales y autoconmutador.
+PAC: (PCI A.G.P. Controller)
+Packed: El término («empaquetado», en español) se refiere a un modo de comprimir los datos de tal suerte que se puede reducir a la mitad la cantidad de memoria necesaria para contenerlos.
+PACKET RADIO: Modo de comunicación digital, consistente en enlazar ordenadores via radio mediante el protocolo de comunicación AX.25, NetRom o Rose.
+PAD: (Packet Assembler/Disassembler). Interface ensambladordesensamblador de los paquetes de datos en la operación con líneas del tipo X.25.
+PageMaker: Es un programa de edición profesional muy popular, desarrollado por la firma Aldus.
+PageRank: Concepto creado por Google y basado en un algoritmo numéricos que utiliza para determinar la popularidad de una página web. 
+Páginas Dinámicas: Páginas Web que contienen, además de texto y gráficos, archivos de sonido, de vídeo, animaciones o elementos interactivos. 
+PAL: (Phase Alternative Line). Sistema de televisión adoptado por la mayoría de países europeos. (Ver NTSC)
+Palabras clave: En términos publicitarios, son aquellas palabras o términos de búsqueda principales que definen el contenido de un sitio web.
+PAM: (Pulse Amplitude Modulation). Un tipo de modulación en la que la amplitud del ritmo de transporte de la señal se modifica en función de alguna característica concreta de la propia señal.
+PAN: Personal Area Network (Red de Área Personal). Es una red de ordenadores para la comunicación entre distintos dispositivos (tanto ordenadores, puntos de acceso a internet, teléfonos móviles, PDA, dispositivos de audio, impresoras) 
+Pantalla: Denominada a veces display. Periférico generalmente integrado en el monitor. (Ver: Resolución, VGA, EGA y CGA).
+Pantalla táctil: Una Pantalla táctil (touchscreen en inglés) es una pantalla que mediante un contacto táctil sobre su superficie permite la entrada de datos y órdenes al ordenador. 
+Paquete: El término se refiere a cierto software de aplicación diseñado para atender necesidades sectoriales, de un tipo de negocio, etc. 
+Paquete de Software: Un paquete de software es una serie de programas que se distribuyen conjuntamente. Algunas de las razones para ello suelen ser que el funcionamiento de cada uno complementa o requiere a los demás, que sus objetivos están relacionados o como estrategia de mercadotecnia.
+Par trenzado: Par de hilos de cobre utilizado habitualmente en sistemas de cableado.
+PARADIGMA: Un paradigma es una técnica, un modelo o un conjunto de herramientas para representar la solución de problemas específicos.
+Parámetro: Es un término utilizado muy frecuentemente en el lenguaje común y, no necesariamente, con demasiada propiedad. Parámetro es condición variable a la que se asignan unos valores determinados y fijos. 
+QUARKXPRESS: Uno de los programas de autoedición más utilizados actualmente. 
+QUICKTIME: Tecnología de reproducción de ficheros de vídeo desarrollada por Apple, que ha dado lugar al formato MOV. Las últimas versioners tienen funciones de streaming.
+QBE: (Query By Example) Lenguaje de consultas rápidas en bases de datos.
+Qdisc: (Queueing Discipline) Disciplina de Cola.
+QuarkXpress: Uno de los paquetes de autoedición más utilizados.
+Quattro: Es una aplicación de hoja de calculo realizada por Borland.
+Qubit: Es una unidad de información cuántica (la versión cuántica del tradicional bit) con dimensiones adicionales asociadas a las propiedades cuánticas de los átomos físicos.
+Query: Consulta. Búsqueda en una base de datos.
+Queue: Cola. Conjunto de paquetes a la espera de ser procesador. (Ver. Cola de Impresion)
+QuickBasic: Es un lenguaje derivado del viejo Basic, su compilador se distribuía con las versiones del ms-dos (Qbasic), aunque en formato algo reducido. 
+Quicksort: Método de ordenamiento ampliamente usado en arreglos, vectores y matrices. Es conocido como un claro ejemplo de programación recursiva. Existen otros métodos como el BubbleSort, MergeSort entre otros.
+Quicktime: Programa que permite recuperar de la red imágenes de video de formato .mov, uno de los más comunes.
+QWERTY: Se trata de una disposición del teclado en que las teclas comienzan de la forma referenciada por el concepto que estamos viendo, es decir, Q-W-E-R-T-Y.
+RAM (Random Access Memory, memoria de acceso aleatorio): Está integrada por uno o más chips y se utiliza como memoria principal de un ordenador, que mantiene los datos y programas hasta que se desconecta la máquina. 
+RATÓN (mouse): Periférico señalizador esencial en los sistemas operativos gráficos. Cada uno de sus movimientos se corresponde con un desplazamiento del cursor por la pantalla.
+RDSI: (Red Digital de Servicios Integrados). Estándar de comunicaciones de alta velocidad que integra en una misma red digital (normalmente de fibra óptica) distintos servicios como telefonía, transmisión de datos, correo electrónico o multimedia. La RDSI dispone en REAL AUDIO: Formado de sonido. Los archivos de sonido Real Audio (RA) están muy comprimidos, pero es necesario instalar plug-ins para que los navegadores puedan interpretarlos.
+REALIDAD VIRTUAL: Programas tridimensionales que logran una apariencia de realidad, conjuntamente con un conjunto de dispositivos como: cascos con gafas RV, guantes con sensores... Tienen aplicaciones lúdicas, en medicina, arquitectura...
+REALMEDIA: Formatos que ofrecen una buena compresión de audio (RA) y vídeo (RM). Tienen la función de streaming. Actualmente son muy utilizados.
+RED: Infraestructura normalmente de cable que permite la interconexión entre los ordenadores ya sea a nivel local, nacional o mundial.
+REDES LOCALES: Una RED LOCAL (Local Area network, LAN) Es una conexión entre diversos ordenadores próximos que facilita el intercambio de información entre ellos y el uso compartido de algunos periféricos.
+RELOJ INTERNO: Todos los ordenadores tienen un reloj interno que marca el ritmo con el que se ejecutan las instrucciones de los programas. Cuanto más alta sea su frecuencia (que es mide en Megahertz, Mhz), mayor será la velocidad de proceso del ordenador.
+REGISTROS DE TRABAJO: Los REGISTROS DE TRABAJO son espacios auxiliares de memoria a los cuales se accede muy rápidamente y que la Unidad Central utiliza para guardar momentáneamente información. 
+RESETEAR (reinicializar): Tecnicismo que se utiliza cuando se apaga el ordenador mediante la tecla «reset» (o la combinación «Ctrl+Alt+Supr») al quedarse colgado. 
+RESOLUCIÓN: Máximo número de puntos (pixels)  que se pueden visualizar simultáneamente en pantalla. 
+RESOLUCIÓN HORIZONTAL: Mide la calidad de una imagen en líneas horizontales de resolución. En un vídeo VHS se visualizan 240 líneas; en un DVD más del doble.
+RESTORE: Función complementaria del backup. Sirve para restaurar o recuperar los ficheros que previamente fueron guardados en copias de seguridad. 
+RETURN: Tecla fundamental del teclado que se utiliza para confirmar la ejecución de mandatos, la puesta en marcha de programas o la selección de las opciones de un menú. También se denomina «Enter» o «Intro». 
+RF (Radio Frequency): Tecnología utilizada en radio, televisión y redes de banda ancha para transmitir la información. Utiliza señales portadoras del rango de megahercios (MHz)
+RGB (Red, Green, Blue): Hace referencia a los monitores que tienen entradas de vídeo separadas para cada uno de los colores básicos.
+RIPPER: Programa que permite copiar los datos de un CD-ROM y pasarlos a formato WAV en el disco duro de un ordenador.
+RISC: (Reduced Instruction Set Computer) Tipo de procesador que incorpora un juego de instrucciones reducido. Se contrapone a la tecnología CISC, que utiliza un juego de instrucciones ampliado. 
+RJ-11: Conector telefónico estándar muy utilizado en USA. Es parecido a RJ-14, pero éste último es doble.
+ROAMING: Funcuionalidad de los teléfonos móviles GSM que les permite conectarse a diversas redes de telefonía. Resulta útil cuando salimos de viaje al extranjero.
+ROBÓTICA: Ciencia que se dedica al diseño y creación de robots. 
+ROM: (Read Only Memory, memoria de sólo lectura). Memoria permanente de los ordenadores que controla las rutinas imprescindibles para su funcionamiento. 
+ROUTER: Dispositivo para conectar redes telemáticas y encaminar los paquetes de información hacia su destino. Controla el tráfico en la red.
+RUTINA: Conjunto de instrucciones que realizan una función muy concreta dentro de un programa o en un dispositivo hardware. Por ejemplo, una rutina puede ser la función de copiar en un procesador de textos. 
+SCROLL(desplazamiento): Las barras de scroll de una pantalla o ventana permiten que estas se desplacen de forma horizontal o vertical. 
+SCSI (Small Computer System Interface): Interfaz de hardware para la conexión de múltiples periféricos que proporciona una transmisión de datos rápida y continuada. 
+SELF MEDIA: Materiales que el usuario puede seleccionar y utilizar cuando desee (por ejemplo: un libro). Los "mass media" en cambio, muchas veces deben utilizarse necesariamente en un momento preciso (por ejemplo: la televisión).
+SEÑALES ANALÓGICAS: Una SEÑAL ANALÓGICA Es una señal que puede variar de manera continua. Entre dos valores próximos siempre se pueden considerar valores intermedios. La temperatura que registra un termómetro de mercurio proporciona señales analógicas. 
+SEÑALES DIGITALES: Una SEÑAL DIGITAL Es una señal que sólo puede variar de manera discreta. Entre dos valores consecutivos no puede haber ningún valor intermedio.  Un reloj digital proporciona señales digitales.
+SERVIDOR: Ordenador central de una red de ordenadores que suministra programas y servicios (impresora, disco duro, connexión a Internet...) 
+SERVIDOR DE CORREO: Servidor que distribuye los mensajes de salida de correo electrónico y que almacena los de entrada hasta que el usuario destinatario los lea. 
+SERVIDOR DE FICHEROS: Ordenador de una red que mantiene ficheros en carpetas compartidas por los usuarios de una red local.
+SERVIDOR DE INTERNET: Cualquiera de los ordenadores que están permanentemente conectados a Internet, y facilitan la conexión temporal a otros ordenadores.
+SERVIDOR DE LISTA: Servidor que gestiona automáticamente los mensajes que se envían los suscriptores de las listas de distribución.
+SERVIDOR DE NOTICIAS: Servidor que distribuye los mensajes enviados a los grupos de noticias. Al cabo de un tiempo los mensajes caducan y se eliminan del servidor.
+SERVIDOR WEB: Servidor que gestiona el acceso de los usuarios a las páginas web de la World Wide Web.
+SHAREWARE: Software que los usuarios pueden utilizar gratuitamente durante un periodo de tiempo determinado. Más allá de este periodo, deben pagar una cuota si desean seguir utilizándolo. 
+SÍNCRONO: Método de comunicación serie en el que los datos se envían como un flujo continuo de bits.
+SISTEMA EXPERTO: Es un programa que asesora al usuario como lo haría un experto. Constituye una aplicación práctica de la inteligencia artificial. 
+SISTEMA DE INFORMÁTICO : Entendemos por SISTEMA DE INFORMACIÓN el conjunto de máquinas, programas informáticos y técnicas de trabajo que se utilizan para procesar unos datos concretos. Siempre contempla tres fases:
+SISTEMA OPERATIVO: Es el conjunto de programas que nos permiten comunicarnos con el ordenador y ordenarle la ejecución de determinadas tareas: ver lo que hay en un disco, copiar y transferir datos, ejecutar programas... 
+SLIP (protocolo Internet de línea serie): Protocolo que permite una conexión directa a lnternet. Es menos  fiable que una conexión PPP. 
+SLOT: (ranura de expansión). Conector o zócalo en la placa base donde se insertan las tarjetas controladoras de periféricos y de expansión del equipo. 
+SMS (Short Messaging Service): Servicio de mensajes cortos, muy popular entre los usuarios de telefonía móvil. Su coste es bajo, y hasta resulta casi gratuito si los mensajes se envían desde un ordenador conectado a Internet.
+SMTP (Simple Mail Transfer Protocol, protocolo simple de transferencia de mensajes): Protocolo utilizado para transferir mensajes de correo electrónico entre ordenadores.
+SOFTWARE (soporte lógico): Todo tipo de programas, utilidades, aplicaciones, sistemas operativos, drivers que hacen posible que el usuario pueda trabajar con la máquina. 
+SPOOL: Compratición de impresoras.
+STREAMING (flujo continuo): Forma de reproducir archivos de sonido y de video a medida que se van "bajando" de Internet, sin esperar a tener completo en el ordenador todo el archivo. 
+SUITE: Conjunto de programas que cubren las principales aplicaciones de oficina: procesador de textos,  hoja de cálculo, base de datos, agenda personal, programa de gráficos de gestión... Se suelen comercializar en un único paquete.
+SWITCHS: Pequeños conmutadores que se utilizan para configurar la placa base y las tarjetas de los ordenadores.
+SYS: Extensión propia de los archivos de sistema.
+SSF: (Security Strength Factor). Determina el factor|Valor de seguridad.
+SSH: (Secure SHell). Protocolo seguro y un conjunto de herramientas para reemplazar otras más comunes (inseguras). Fue diseñado desde el principio para ofrecer un máximo de seguridad y permitir el acceso remoto a servidores de forma segura.
+SSI: (Small Scale Integration). Chips en cuya construcción se emplean hasta doce transistores.
+(Server Site Includes). Esta técnica le permite incluir el mismo código HTML en varias páginas de su sitio, facilitando el mantenimiento del mismo.
+SSID: (Service Set Identifier).Es un código que llevan todos los paquetes que cirulan por una red wireless. 
+SSL: (Secure Socket Layer). Un protocolo de bajo nivel que permite establecer comunicaciones seguras entre un servidor Web y un explorador de Web.
+STEP: (Standard for the Exchange of Product) o STP, Formato estándar de intercambio de datos entre software de geometría 2D y 3D. Más fiable en transferencia de datos de sólidos que el conocido como IGES o IGS.
+Stopear: Barbarismo que indica la acción de detener una aplicación, servicio, procedimiento o prueba proveniente del término anglosajón "Stop".
+Storm Worm: Es un virus de tipo "back door" o "Trojan horse" que infecta a ordenadores que usan Microsoft como sistema operativo. 
+STP: (Shielded Twisted Pair). Par Trenzado Blindado. Medio de cableado de dos pares que se usa en diversas implementaciones de red. El cableado STP posee una capa de aislamiento blindado para reducir la interferencia electromagnética.
+Streaming: Consiste en una tecnología utilizada para permitir la visualización y la audición de un archivo mientras se está descargando
+Striping: Técnica empleada para obtener altas velocidades de transferencia. Cada fichero es dividido en partes y leído en múltiples drives.
+Struts: El proyecto Struts lo lanzó en Mayo del 2000 Craig R. McClanahan para proporcionar un marco de trabajo MVC estándard a la comunidad Java. En Julio del 2001, se liberó Struts 1.0. 
+Subdominios: Subdominios son nombre de dominio con el formato loquesea.tudominio.com.
+SUMMIT: Es el nombre empleado para designar a los procesadores utilizados en las series siguientes a la 390 de IBM.
+Sun Microsystem Inc: Una de las firmas norteamericanas más importantes en la fabricación y comercialización de estaciones de trabajo, entre otros productos.
+SunOs: Sistema operativo de Sun Microsystems conforme con Unix.
+Supercomputadora: Es la computadora mas potente disponible en un momento dado; generalmente usada para aplicaciones científicas.
+Supercomputadoras: Una supercomputadora es el tipo de computadora más potente y más rápido que existe en un momento dado. 
+Superordenador: Es el nombre con el que se conocen a cierto tipo de máquinas de elevadísimas prestaciones, utilizadas por ejemplo en cálculos relacionados con la construcción de aeronaves. 
+SuperUsuario: (Superuser). La cuenta privilegiada en Unix le pertenece al superusuario. Tradicionalmente, la UID y la GID (identificación de usuario y grupo respectivamente) de esta cuenta son ambas "0" (cero) y su nombre de usuario es "root" "Superusuario" Surround: Término que hace referencia al sonido envolvente. Para conseguirlo se utilizan varios altavoces repartidos alrededor del oyente.
+SVG: (Scalable Vector Graphics) Formato de gráficos para la web, que se asemeja a los formatos bitmap.
+SVOD: (Stacked Volumetric Optical Discs) Tecnología en fase prototípica que se basa en el uso de cartuchos de 100 discos ópticos y está orientada a sectores profesionales con grandes necesidades de almacenamiento.
+Swapping: Es un mecanismo o modo de interrelacionar la memoria principal (la que contiene el Programa en ejecución, los datos de proceso inmediato y los resultados intermedios) 
+Switch: Dispositivo de red que filtra, envía e inunda de frames en base a la dirección de destino de cada frame. El switch opera en la capa de enlace de datos del modelo OSI. 
+System V: Sistema operativo Unix de la Firma norteamericana AT&T.
+SysTray: Espacio reservado en la Barra de Tareas de Windows para poner iconos varios y el Reloj de Windows.
+TCP/IP (Transmision Control Protocol/Internet Protocol): Es el protocolo de comunicaciones más extendido y que se usa en Internet y en las intranets de las empresas. 
+TDMA: Acceso múltiple por división de tiempo. Se trata de compartir el tiempo de acceso entre múltiples usuarios de un sistema.
+TECLADO: El teclado del ordenador es, junto al ratón, el periférico básico para la entrada de datos al ordenador. 
+TELEFONIA MÓVIL: Sistemas de telefonía sin cables. Podemos identificar tres generaciones: la inicial (solamente ofrecía funciones de telefonía convencional), la GSM (permite conexiones textuales a Internet, acceso a correo electrónico...) 
+TELEMÁTICA: Ciencia nacida de la fusión de las telecomunicaciones y la informática. que estudia la comunicación entre ordenadores lejanos para que puedan intercambiarse información.
+TELEPROCESO: Operaciones que se realizan de forma remota desde terminales conectados a una unidad central (como en los cajeros automáticos de las entidades bancarias)
+TELNET: Protocolo que permite al usuario conectarse a un ordenador remoto y utilizarlo como si estuviera en uno de sus terminales.
+TERABYTE: Unidad de medida de volumen de información que equivale a algo más de un trillón de bytes. Un uno seguido de dieciocho ceros. 
+TERMINAL PUNTO DE VENTA: Máquina híbrida entre un ordenador y un cajero automático que se encuentra en muchos establecimientos comerciales. 
+TIEMPO REAL: Una operación se realiza en tiempo real cuando se ejecuta en el mismo momento que se solicita. 
+TIFF (Tagged Image File Format): Formato de almacenamiento de imágenes de mapa de bits que proporciona una alta calidad.
+TOKEN RING: Protocolo de comunicación para redes en las que los ordenadores están conectados formando un anillo. 
+TONER: Depósito de pigmento que utilizan las impresoras láser para imprimir texto y gráficos. También lo utilizan las fotocopiadoras y el fax. 
+TRACK: Pista de un dispositivo de almacenamiento: disco duro, disquete... 
+TRACKBALL: Especie de ratón que incorporan algunos ordenadores portátiles que dirige el cursor mediante el movimiento de una bolita situada en la parte superior y que se puede mover con la mano. 
+TRADUCTORES: Los TRADUCTORES son programas que traducen software escrito en un lenguaje de alto nivel a código máquina. Según la manera como hacen la traducción podemos distinguir dos tipo de traductores:
+Tabla: Una o más filas de celdas de una página que se utilizan para organizar el diseño de una página Web o para ordenar datos sistemáticamente.
+Una tabla es un objeto, o una entidad que se identifica a travez de sus atributos campos (columnas), y puede ser la abstraccion de algo real o intangible.
+Tag: Rótulo, etiqueta, identificador.
+Tandem: (Tandem Computers Inc., Cupertino, CA) Fabricante de computadores tolerantes a fallas, fundada en 1974 por James Treybig, para dedicarse al mercado del procesamiento de transacciones. 
+Tandy: (Tandy Corporation, Ft. Worth, TX) Fabricante de computadores personales y artículos electrónicos que se inició como un negocio familiar de cueros en 1919. 
+TAPI: (Telephony API) Interfaz de programación de Microsoft e Intel que hace parte de la arquitectura WOSA de Microsoft. Permite que las aplicaciones cliente de Windows tengan acceso a servicios de voz en un servidor. 
+Tar: (Tape ARchive) Tar es el programa de backup de Unix por antonomasia. En un principio, tar se utilizava para copias en cintas magneticas, de ahi su nombre.
+Tarea programada: Es una secuencia de comandos, programas o documentos para ejecutarlos a la hora más adecuada, de acuerdo a una calendarización.
+Tarjeta: Se trata de una placa del tamaño de una tarjeta de crédito o algo mayor, en la que están impresos circuitos que hacen posible la operación con distintos periféricos. 
+Tarjeta de Extensión: Son las que se insertan en las ranuras. CAP vienen en los diferentes tipos, como las ranuras. 
+Tarjeta de Memoria: Módulo de memoria del tamaño de una tarjeta de crédito utilizado como un disco adicional o alternativa de disco en laptops y palmtops. 
+Tarjeta de Red: También conocida como NIC (Network Interface Card), es el elemento que conectamos al PC para proporcionar el soporte de red. 
+Tarjeta de Sonido: La tarjeta de sonido es un accesorio del ordenador. Reproduce música, voz o cualquier señal audio. A la targeta de sonido se le pueden conectar altavoces, auriculares y un micrófono.
+Tarjeta Madre, de sistema o Principal: Es un circuito integrado con varios microchips y diferentes tipos de ranuras y conectores. En ella se conectan todos los componentes del computador incluyendo el procesador.
+Tarjeta perforada: Es una cartulina con unas determinaciones al estar perforadas, lo que supone un código binario. 
+TCAM: (TeleCommunications Access Method) Método de acceso a telecomunicaciones.
+TCP/IP: (Transmision Control Protocol/Internet Protocol). Se trata de un estándar de comunicaciones muy extendido y de uso muy frecuente para software de red basado en Unix con protocolos Token-Ring y Ethernet, entre otros. 
+TCU: (Transmission Control Unit) Unidad de control de transmisión. Unidad de control de comunicaciones controlada por el computador y que no ejecuta programas almacenados internamente. Nótese la diferencia con front end processor, el cual ejecuta sus propias instrucciones.
+Tecla Shift: TECLA SHIFT: Tecla en los teclados para PC, que da a otras teclas otro significado. La tecla SHIFT debe presionarse junto otras teclas para cambiarle su función.
+Teclado: Dispositivo de entrada de datos al ordenador. En general, se parece bastante al de una máquina de escribir convencional; debe ser, sin embargo, predefinido (no son iguales el español y el inglés, por ejemplo, aunque se utilice el mismo aparato
+Teclado AT: Teclado de 84 teclas provisto con el computador personal AT, y con el cual se corrigió la disposición no estándar de la tecla de retorno y de la tecla "Shift" izquierda de los computadores personales.
+UART: (Universal Asynchronous Receiver/Transmiter) Circuito integrado (chip) que controla el puerto de comunicaciones serie. Actualmente se usan tipo UART 16450 
+UMTS (Universal Mobile Telecommunications System): Tercera generación de teléfonos móviles, que llegará tras la inminente aparición del GPRS (la última evolución de la generación GSM). 
+UNIDAD ARITMÉTICA Y LÓGICA (UAL): La UNIDAD ARITMÉTICA Y LÓGICA (UAL) realiza las operaciones lógicas y aritméticas de los programas. 
+UNIDAD DE CONTROL: La UNIDAD DE CONTROL controla le ejecución de los programas y el funcionamiento general de todo el sistema. 
+UNIDAD DE DISCO: Término que se aplica a cualquier disquetera, lector de CD-ROM o disco duro. 
+UNIX: Sistema operativo de 32 bits empleado principalmente en entornos científicos e industriales. Es multiusuario (permite el trabajo simultáneo de muchos usuarios) y multitarea (ejecuta varias operaciones al mismo tiempo). 
+UPLOAD: (subir) Proceso de transferir información desde un ordenador cliente a otro servidor.
+UPS: Unidad de alimentación ininterrumpida, también conocida como SAI. 
+URL (Uniform Resource Location): Son las direcciones de Internet, que cuando se refieren a páginas web empiezan siempre con las letras http//
+USB (Universal Serial Bus ): Bus que permite la conexión de todo tipo de periféricos. Su velocidad es de 12 Mbps. (muy suoperior a la del puerto serie) y permite la conexión de hasta 127 dispositivos.
+USENET: Red principal de grupos de noticias (news) disponible a través de Internet. 
+UTILIDAD: Programa que complementa o mejora las funciones de un sistema operativo o de un programa concreto. Entre las más famosas se encuentran las utilidades de Norton. 
+UUENCODE: Protocolo de codificación de archivos binarios para que puedan transmitirse mediante correo electrónico.
+U.S. Robotic: (U.S. Robotics, Inc., Skokie, IL) Fabricante de modems muy apreciado por sus modems de calidad. La compañía fabrica sus propios conjuntos de chips y con frecuencia lidera la industria con sus innovaciones.
+UART: Un componente estándar para la comunicación por el puerto COM. El chip 16550 que incorporan todas las placas de la comparativa tiene un buffer de 16 Bytes para aumentar la velocidad.
+Ubuntu: Es una distribución Linux que ofrece un sistema operativo predominantemente enfocado a computadoras de escritorio aunque también proporciona soporte para servidores. Es una de las más importantes distribuciones de GNU/Linux a nivel mundial.
+UCE: (Unsolicited commercial email)
+UDDI: (Universal Description, Discovery and Integration protocol). Protocolo de
+Descripción Universal, Exploración e Integración. 
+UDP: (User Datagram Protocol)  Servicio sin conexión RFC 768. No tiene control de error o flujo, no tiene asociada información de estado. No hay otra fase que la transferencia de datos.
+UFS: (Unix File System)
+UI: (Unix International). Organización creada en 1988 para fijar las especificaciones de los desarrollos Unix.
+ULSI: (Ultra Large Scale Integration) Ultra gran escala de integración. Tecnología de circuitos integrados que utiliza entre 100.000 y un millón de transistores por circuito integrado, equivalentes a 10.000 a 100.000 puertas lógicas. Actualmente se utiliza para fabricar microprocesadores complejos.
+Ultrix: Es la versión de Unix desarrollada por Digital Equipment Corp.
+UMA: (Upper Memory Area) Área superior de memoria. Memoria de computadores personales entre 640K y 1024K.
+UMB: (Upper Memory Block) Bloque superior de memoria. Bloques no utilizados en el UMA (640K-1M). Un proveedor de UMB, como EMM386.EXE, es software que puede cargar y manejar controladores y TSR en estas áreas no ocupadas.
+UML: (Unifed Modeling Languaje) El lenguaje para modelamiento unificado (UML), es un lenguaje para la especificación, visualización, construcción y documentación de los artefactos de un proceso de sistema intensivo. Estereotipo UML
+UMTS: (Universal Mobile Telecommunications System); Constituye uno de los miembros de la familia de estándares IMT-2000.
+Entre los atributos de UMTS se pueden destacar
+V.90: Estándard actual para el sistema de comunicación entre los módems
+VENTANA: Elemento básico de los entornos gráficos de los sistemas operativos Windows y Mac. En las ventanas se muestran las opciones de un menú, el contenido de las carpetas o la zona de trabajo de un programa. 
+VERSIÓN BETA: Versión de un programa que aún está en fase de desarrollo y que todavía no se ha comercializado. A menudo se distribuyen gratuitamente por Internet para que los usuarias detecten problemas de funcionamiento. 
+VGA (Video Graphics Array): Estándar para monitores de color que admitía inicialmente resoluciones 640x480 con una porfundidad de color de 16 colores y una frecuencia de refresco de la pantalla de 60 Hz. 
+VIDEOCONFERENCIA: Sistema mediante el cual dos o más personas pueden comunicarse (imagen, voz, texto) a través de Internet.
+VIDEOSTREAMING: Reproducción de vídeo en tiempo real desde Internet.
+VÍNCULO: Conexión entre páginas web (Ver: enclace).
+VIRUS: Programas informáticos desarrollados para destruir la informaicón y producir problemas de funcionamiento a los ordenadores que infectan. Se propagan automáticamente al transferir información entre los ordenadores.
+VRAM: Memoria muy rápida que se suele utilizar en las tarjetas gráficas.
+VRML (Virtual Reality Markup Language, lenguaje de modelado de realidad virtual): enguaje para el desarrollo de mundos virtuales que permite la visualización y el manejo de imágenes en 3-D en las páginas Web.
+VXD: Extensión distintiva de los archivos de vínculos dinámicos.
+WAN (Wide Area Network): Redes de ordenadores comunicados entre si a gran distancia. La comunicación se realiza mediante conexión telefónica, por cable o vía satélite.
+W3 CONSORTIUM: Se encargan de estandarizar y homogeneizar las sucesivas versiones de HTML http://www.w3.org
+WAP: (Wireless Aplication Protocol) Protocolo para comunicaciones inalámbricas que permite acceder a servicios (de texto) de Internet des de teléfonos móviles de pantalla reducida. La velocidad es de 9'6 Kb, siendo el acceso lento y pesado.
+WAV: Formato estándard para almacenar sonidos. Los archivos de sonido WAV dan una calidad aceptable pero son de gran tamaño. 
+WEB: Forma abreviada de designar la World Wide Web
+WEBCAM: Pequeña cámara de vídeo de baja gama que, conectada directamente a uno de los puertos del ordenador, permite digitalizar en vídeo y realizar videoconferencias.
+WEBLOG (blog o bitácora): Diario on-line en el que su autor puede escribir cada día desde cualquier navegador y lugar. Generalmente se agrupan en comunidades de escritores que tienen unos mismos intereses.
+WEB-CT: Sistema integral para la organizaciónd e cdursos on-line ( http://www.webct.com/webct/). 
+WEB-TV: Dispositivo que se conecta al televisor y al teléfono y, con la ayuda de un teclado inalámbrico,  permite sin más navegar por Internet desde el televisor.
+WEBSITE (espacio web, sitio web): Dentro de Internet, conjunto de páginas web de un mismo propietario (persona, empresa, institución...)  relacionadas entre si mediante enlaces hipertextuales. 
+WI-FI: (Wireless Infranet). Red inalamabrica por microondas, que tiene un alcance de unos 400 metros.
+WINDOWS: Sistema operativo para ordenadores PC de Microsoft, basado en ventanas, que permitió la evolución del sistema operativo MS/DOS a un interfaz más atractivo y amigable. 
+WINSOCK: Software que actúa de interface entre el sistema operativo Windows y las aplicaciones  para la conexión telemática.
+WINZIP: Programa muy extendido que realiza la compresión de ficheros para facilitar su transporte. 
+WORKSTATION: Estación de trabajo en una red informática. 
