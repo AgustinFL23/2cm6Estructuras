@@ -42,6 +42,7 @@ si es 3 realiza un recorrido postorder
 */
 int recorrer_arbol(nodo* raiz, int recorrido);
 void modificar_descripcion(nodo* raiz, char* palabra_buscar, char* nueva_descripcion);
+//void mostrar_informacion_arbol(nodo* raiz);
 
 #include "ABB.c"
 #endif
