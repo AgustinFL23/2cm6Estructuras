@@ -1,10 +1,12 @@
 #ifndef bandera
 #define bandera
 #include <stdio.h>
+
 typedef struct palabra{
 	char palabra[30];
 	char descripcion[200];
 }s;
+
 typedef s* palabra;
 typedef struct nodo
 {
@@ -39,7 +41,7 @@ si es 2 realiza un recorrido in order
 si es 3 realiza un recorrido postorder
 */
 int recorrer_arbol(nodo* raiz, int recorrido);
-
+void modificar_descripcion(nodo* raiz, char* palabra_buscar, char* nueva_descripcion);
 
 #include "ABB.c"
 #endif
