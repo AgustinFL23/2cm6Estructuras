@@ -1,122 +1,94 @@
 #include "ABB.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-/*
-Crear palabra
-Regresa una palabra completamente con sus campos llenos
-*/
-palabra crear_palabra(){
-	fflush(stdin);
-	palabra nueva;
-	nueva = malloc(sizeof(s)*1);
-	printf("Ingresa la palabra:\n");
-	fgets(nueva->palabra,30,stdin);//funcion para leer maximo 29 y guardar en nueva->palabra
-	printf("Ingrese la descripcion: \n");
-	fgets(nueva->descripcion,200,stdin);//funcion para leer maximmo 199 y guardar en nueva->descripcion
-	return nueva;
-}
+int main(){
+    nodo diccionario;
+    Inicializar(&diccionario);
+    int opc;
+    do
+    {    
+    printf("\t MENU \t\n");
+    printf("1.- Cargar un archivo de definiciones\n");
+    printf("2.- Agregar una palabra y su definicion\n");
+    printf("3.- Buscar una palabra\n");
+    printf("4.- Modificar una definicion\n");
+    printf("5.- Eliminar una palabra\n");
+    printf("6.- Recorridos\n");
+    printf("7.- Estadisticas del ABB\n");
+    printf("8.- Salir\n");
 
-void Inicializar(nodo* nuevo){
-	nuevo->hijo_izq=NULL;
-	nuevo->hijo_der=NULL;
-	nuevo->palabra=NULL;
-}
+    printf("Ingrese una opcion:\n");
+    scanf("%d", &opc);
 
-void a_p_r(nodo* raiz, palabra aniadir){
-	if (strcmp(raiz->palabra->palabra,aniadir->palabra)>0)
-	{
-		if (raiz->hijo_izq!=NULL)
-			a_p_r(raiz->hijo_izq,aniadir);
-		else{
-			nodo* nuevo;
-			nuevo=malloc(sizeof(nodo)*1);
-			Inicializar(nuevo);
-			nuevo->palabra=aniadir;
-			raiz->hijo_izq=nuevo;
-		}
-	}
-	else{
-		if (raiz->hijo_der!=NULL)
-			a_p_r(raiz->hijo_der,aniadir);
-		else{
-			nodo* nuevo;
-			nuevo=malloc(sizeof(nodo)*1);
-			Inicializar(nuevo);
-			nuevo->palabra=aniadir;
-			raiz->hijo_der=nuevo;
-		}	
-	}
-}
+    fflush(stdin);
 
-void aniadir_palabra(nodo* raiz){
-	palabra nueva=crear_palabra();
-	if(raiz->palabra==NULL){
-		raiz->palabra=nueva;
-	}
-	else if(buscar_palabra(raiz,nueva->palabra)!=NULL)
-		printf("La palabra ya ha sido añadida antes\n");
-	else{
-		a_p_r(raiz,nueva);
-	}
-}
+    switch (opc)
+    {
+    case 1:
+        
+        break;
 
-palabra buscar_palabra(nodo* raiz, char* buscar){
-	palabra nuevo=NULL;
+    case 2:
 
-	if (strcmp(raiz->palabra->palabra,buscar)==0)
-		nuevo=raiz->palabra;
-	else if (strcmp(raiz->palabra->palabra,buscar)>0)
-	{
-		if (raiz->hijo_izq!=NULL)
-			nuevo=buscar_palabra(raiz->hijo_izq, buscar);
-		
-	}
-	else{
-		if (raiz->hijo_der!=NULL)
-			nuevo=buscar_palabra(raiz->hijo_der, buscar);
-	}
+        printf("Ingresa la palabra y su definicion:\n");
+        aniadir_palabra(&diccionario);
 
-return nuevo;
-}
+        break;
+    case 3:
+        char Buscar_palabra[30];
+        printf("¿Que palabra deseas buscar?\n");
+        fgets(Buscar_palabra,30,stdin);
+        palabra buscada = buscar_palabra(&diccionario, Buscar_palabra);
+        if (buscada!=NULL)
+        {
+            printf("%s\n %s", buscada->palabra, buscada->descripcion);
+        }
+        else
+        {
+            printf("Palabra no encontrada");
+        }
+        break;
 
-int recorrer_arbol(nodo* raiz, int recorrido){
-	switch(recorrido){
-		case 1:
-			printf("%s\n",raiz->palabra->palabra);
-			printf("%s\n",raiz->palabra->descripcion);
-			if(raiz->hijo_izq!=NULL)
-				recorrer_arbol(raiz->hijo_izq,recorrido);
-			if(raiz->hijo_der!=NULL)
-			recorrer_arbol(raiz->hijo_der,recorrido);
-		break;
-		case 2:
-			if(raiz->hijo_izq!=NULL)
-				recorrer_arbol(raiz->hijo_izq,recorrido);
-			printf("%s\n",raiz->palabra->palabra);
-			printf("%s\n",raiz->palabra->descripcion);
-			if(raiz->hijo_der!=NULL)
-				recorrer_arbol(raiz->hijo_der,recorrido);
-		break;
-		case 3:
-			if(raiz->hijo_izq!=NULL)
-				recorrer_arbol(raiz->hijo_izq,recorrido);
-			if(raiz->hijo_der!=NULL)
-				recorrer_arbol(raiz->hijo_der,recorrido);
-			printf("%s\n",raiz->palabra->palabra);
-			printf("%s\n",raiz->palabra->descripcion);
-		break;
-		default:
-			printf("Entrada no valida\n Introduzca 1 para realizar un recorrido pre order\n Introduzca 2 para realizar un recorrido in order\n Introduzca 3 para realizar un recorrido post order \n");
-	}
-}
+    case 4:
+        
+        char nueva_descripcion[200];
+        char palabra_buscar[30];
+        printf("Ingrese la palabra que deasea modificar:\n");
+        fgets(palabra_buscar,30,stdin);
+        printf("Ingresa la nueva descripcion: \n");
+        fgets(nueva_descripcion, 200, stdin);
+        modificar_descripcion(&diccionario, palabra_buscar, nueva_descripcion);
+        break;
 
-void modificar_descripcion(nodo* raiz, char* palabra_buscar, char* nueva_descripcion) {
-    palabra p = buscar_palabra(raiz, palabra_buscar);
-    if (p != NULL) {
-        strncpy(p->descripcion, nueva_descripcion, sizeof(p->descripcion));
-        printf("La descripción de la palabra '%s' ha sido modificada.\n", palabra_buscar);
-    } else {
-        printf("La palabra '%s' no se encontró en el árbol.\n", palabra_buscar);
-    }
+    case 5:
+        
+        break;
+
+    case 6:
+        int recorrido;
+        printf("Recorridos disponibles:\n");
+        printf("1. Pre Orden\n");
+        printf("2. In order\n");
+        printf("3. Post order\n");
+        printf("Ingrese el tipo de recorrido: ");
+        scanf("%d", &recorrido);
+        getchar(); // Consumir el carácter de nueva línea después de la entrada numérica
+        recorrer_arbol(&diccionario, recorrido); 
+        break;
+
+    case 7:
+        mostrar_informacion_arbol(&diccionario);
+        break;
+
+    case 8:
+        printf("Hasta la proximaaa");
+        break;
+    
+    default:
+    printf("Opcion invalida.");
+
+        break;
+    } 
+    
+    } while (opc!=8);
+    
+    return 0;
 }
